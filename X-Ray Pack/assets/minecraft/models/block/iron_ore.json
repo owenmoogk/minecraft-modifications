@@ -1,0 +1,8 @@
+{
+"__comment": "Copyright 2015 Filmjolk David Grindholmen",
+    "ambientocclusion": false,
+    "parent": "block/solid_all",
+    "textures": {
+        "all": "block/iron_ore"
+    }
+}

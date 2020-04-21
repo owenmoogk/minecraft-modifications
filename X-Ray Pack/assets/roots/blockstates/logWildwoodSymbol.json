@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "block\roots\xray\logWildwoodSymbol" },
+        "axis=z":   { "model": "block\roots\xray\logWildwoodSymbol", "x": 90 },
+        "axis=x":   { "model": "block\roots\xray\logWildwoodSymbol", "x": 90, "y": 90 },
+        "axis=none": { "model": "block\roots\xray\logWildwoodSymbol" }
+    }
+}

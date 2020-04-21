@@ -1,0 +1,7 @@
+{
+    "parent": "block/xray_column",
+    "textures": {
+        "end": "block/melon_top",
+        "side": "block/melon_side"
+    }
+}

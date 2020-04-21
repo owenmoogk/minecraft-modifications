@@ -1,0 +1,6 @@
+{
+    "parent": "block/xray_all",
+    "textures": {
+        "all": "block/cyan_concrete_powder"
+    }
+}

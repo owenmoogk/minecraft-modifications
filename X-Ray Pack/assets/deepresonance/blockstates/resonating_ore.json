@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "block/deepresonance/resonating_ore"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

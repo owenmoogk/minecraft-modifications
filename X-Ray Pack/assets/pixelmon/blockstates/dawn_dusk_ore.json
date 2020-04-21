@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "normal": { "model": "minecraft:Dawnstone_Ore" },
+    "contents=none": { "model": "minecraft:stone" },
+    "contents=dawn": { "model": "minecraft:Dawnstone_Ore" },
+    "contents=dusk": { "model": "minecraft:Duskstone_Ore" }
+  }
+}

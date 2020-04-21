@@ -1,0 +1,7 @@
+{
+    "parent": "block/xray_column",
+    "textures": {
+        "end": "block/birch_log",
+        "side": "block/birch_log"
+    }
+}
