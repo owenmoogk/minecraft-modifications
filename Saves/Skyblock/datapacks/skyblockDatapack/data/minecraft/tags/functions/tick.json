@@ -1,0 +1,8 @@
+{
+    "values":
+    [
+        "skyblock:skyblock/tick",
+	"minecraft:main/loop",
+	"skyblock:composter_dirt/main"
+    ]
+}

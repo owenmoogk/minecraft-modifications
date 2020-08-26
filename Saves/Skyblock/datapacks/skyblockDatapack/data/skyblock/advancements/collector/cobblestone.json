@@ -1,0 +1,29 @@
+{
+    "display":
+    {
+        "icon": {"item": "minecraft:cobblestone"},
+        "title": {"translate": "Cobble Collector"},
+	"description": {"translate": "Get a stack of cobblestone."},
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+    },
+    "parent": "skyblock:collector/2log",
+    "criteria":
+    {
+        "cobblestone":
+        {
+            "trigger": "minecraft:inventory_changed",
+            "conditions" : {"items": [{"item": "minecraft:cobblestone","count": 64}]}
+        }
+    },
+  "requirements": [
+    [
+      "cobblestone"
+    ]
+  ],
+	"rewards": {
+		"function": "skyblock:open_adventure"
+	}
+}

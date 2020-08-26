@@ -1,0 +1,21 @@
+{
+    "display":
+    {
+        "icon": {"item": "minecraft:beetroot_soup"},
+        "title": {"translate": "Beetroot Soup"},
+        "description": {"translate": "Craft a bowl of Beetroot Soup."},
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+    },
+    "parent": "skyblock:farmer/01obeetroot",
+    "criteria":
+    {
+        "beetroot_soup":
+        {
+	    "trigger": "minecraft:inventory_changed",
+            "conditions" : {"items": [{"item": "minecraft:beetroot_soup","count": 1}]}
+        }
+    }
+}

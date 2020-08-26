@@ -1,0 +1,18 @@
+{
+    "display":
+    {
+        "icon":{"item": "minecraft:totem_of_undying"},
+        "title": {"translate": "Wait... You died..."},
+        "description": {"translate": "Die without dieing."},
+        "frame": "challenge"
+    },
+    "parent": "skyblock:adventure/evoker",
+    "criteria":
+    {
+        "used_totem":
+	{
+            "trigger": "minecraft:used_totem",
+            "conditions": {"item": {"item": "minecraft:totem_of_undying"}}
+        }
+    }
+}

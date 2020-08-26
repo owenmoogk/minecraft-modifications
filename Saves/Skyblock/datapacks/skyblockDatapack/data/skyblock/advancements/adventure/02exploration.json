@@ -1,0 +1,53 @@
+{
+    "display":
+    {
+        "icon": {"item": "minecraft:compass"},
+        "title": {"translate": "Exploration"},
+        "description": {"translate": "Explore all surrounding islands."},
+        "frame": "challenge"
+    },
+    "parent": "skyblock:adventure/root",
+    "criteria":
+    {
+	"swamp":
+	{
+	    "trigger": "minecraft:location",
+            "conditions": {"biome": "minecraft:swamp"}
+        },
+        "desert":
+	{
+            "trigger": "minecraft:location",
+            "conditions": {"biome": "minecraft:desert"}
+        },
+        "savanna":
+	{
+            "trigger": "minecraft:location",
+            "conditions": {"biome": "minecraft:savanna"}
+        },
+        "jungle":
+	{
+            "trigger": "minecraft:location",
+            "conditions": {"biome": "minecraft:jungle"}
+        },
+        "roofed_forest":
+	{
+            "trigger": "minecraft:location",
+            "conditions": {"biome": "minecraft:dark_forest"}
+        },
+        "taiga":
+	{
+            "trigger": "minecraft:location",
+            "conditions": {"biome": "minecraft:taiga"}
+        },
+        "birch_forest":
+	{
+            "trigger": "minecraft:location",
+            "conditions": {"biome": "minecraft:birch_forest"}
+        },
+        "mushroom_fields":
+	{
+            "trigger": "minecraft:location",
+            "conditions": {"biome": "minecraft:mushroom_fields"}
+        }
+    }
+}

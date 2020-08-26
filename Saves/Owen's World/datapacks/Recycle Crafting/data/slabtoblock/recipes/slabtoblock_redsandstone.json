@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "group": "redsandstone",
+  "pattern": [
+    "# ",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:red_sandstone_slab"
+    }
+  },
+  "result": {
+    "item": "minecraft:red_sandstone"
+  }
+}

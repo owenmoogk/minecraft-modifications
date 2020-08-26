@@ -1,0 +1,21 @@
+{
+    "display":
+    {
+        "icon": {"item": "minecraft:nether_wart"},
+        "title": {"translate": "Wart Farmer"},
+        "description": {"translate": "Is it contagious?"},
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+    },
+    "parent": "skyblock:farmer/seedy_place",
+    "criteria":
+    {
+        "wheat":
+        {
+	    "trigger": "minecraft:inventory_changed",
+            "conditions" : {"items": [{"item": "minecraft:nether_wart","count": 64}]}
+        }
+    }
+}

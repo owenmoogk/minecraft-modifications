@@ -1,0 +1,18 @@
+{
+    "display":
+    {
+        "icon":{"item": "minecraft:sea_lantern"},
+        "title": {"translate": "Ocean"},
+        "description": {"translate": "Wait what ocean?"},
+        "background": "minecraft:textures/block/dark_prismarine.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+    },
+    "criteria": {
+    "never": {
+      "trigger": "impossible"
+    }
+  }
+}

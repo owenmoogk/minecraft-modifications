@@ -1,0 +1,1 @@
+execute as @e run function minecraft:mobs/variants

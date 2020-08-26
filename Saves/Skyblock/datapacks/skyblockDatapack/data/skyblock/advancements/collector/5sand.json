@@ -1,0 +1,21 @@
+{
+    "display":
+    {
+        "icon": {"item": "minecraft:sand"},
+        "title": {"translate": "Sand Collector"},
+        "description": {"translate": "Husks drop sand. Get a stack of it!"},
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+    },
+    "parent": "skyblock:collector/cobblestone",
+    "criteria":
+    {
+        "sand":
+        {
+            "trigger": "minecraft:inventory_changed",
+            "conditions" : {"items": [{"item": "minecraft:sand","count": 64}]}
+        }
+    }
+}

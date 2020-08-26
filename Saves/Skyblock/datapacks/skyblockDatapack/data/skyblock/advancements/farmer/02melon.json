@@ -1,0 +1,21 @@
+{
+    "display":
+    {
+        "icon": {"item": "minecraft:melon_slice"},
+        "title": {"translate": "Melon Farmer"},
+        "description": {"translate": "Get a stack of  melon slices."},
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+    },
+    "parent": "skyblock:farmer/seedy_place",
+    "criteria":
+    {
+        "melon_slice":
+        {
+	    "trigger": "minecraft:inventory_changed",
+            "conditions" : {"items": [{"item": "minecraft:melon_slice","count": 64}]}
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "display":
+    {
+        "icon": {"item": "minecraft:diamond_sword"},
+        "title": {"translate": "The Ultimate Weapon"},
+        "description": {"translate": "Fill a diamond sword or axe with max level enchantments."},
+        "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+    },
+    "parent": "skyblock:end/enchant_item",
+    "criteria":
+    {
+        "sword":
+        {
+            "trigger": "minecraft:inventory_changed",
+            "conditions" :
+            {
+                "items": [{"item": "minecraft:diamond_sword",
+                           "enchantments": [
+                            {"enchantment": "sharpness","levels": 5},
+                            {"enchantment": "looting","levels": 3},
+                            {"enchantment": "unbreaking","levels": 3},
+                            {"enchantment": "fire_aspect","levels": 2},
+                            {"enchantment": "knockback","levels": 2},
+                            {"enchantment": "mending"}]
+			  }]
+            }
+	},
+        "axe":
+        {
+            "trigger": "minecraft:inventory_changed",
+            "conditions" :
+            {
+                "items": [{"item": "minecraft:diamond_axe",
+                            "enchantments": [
+                            {"enchantment": "sharpness","levels": 5},
+                            {"enchantment": "looting","levels": 3},
+                            {"enchantment": "unbreaking","levels": 3},
+                            {"enchantment": "fire_aspect","levels": 2},
+                            {"enchantment": "knockback","levels": 2},
+                            { "enchantment": "mending"}]
+			  }]
+            }
+            }
+	},
+	"requirements": [["sword","axe"]]
+}

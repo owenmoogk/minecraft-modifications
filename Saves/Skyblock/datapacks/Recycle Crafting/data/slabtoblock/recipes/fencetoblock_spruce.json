@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:spruce_fence"
+        }
+    },
+    "result": {
+        "item": "minecraft:spruce_planks",
+        "count": 5
+    }
+}

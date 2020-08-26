@@ -1,0 +1,32 @@
+{
+    "display":
+    {
+        "icon": {"item": "minecraft:gold_nugget"},
+        "title": {"translate": "Gold Skin"},
+        "description": {"translate": "Anger the zombie piglin and get some gold."},
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+    },
+    "parent": "skyblock:nether/in_nether",
+    "criteria": {
+		"Pigmen": {
+			"trigger": "minecraft:player_killed_entity",
+			"conditions":{
+			"entity": {
+				"type": "zombified_piglin"
+						}
+				}
+		},
+		"Gold": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [{
+					"item": "minecraft:gold_nugget",
+					"count": 1
+				}]
+			}
+		}
+	}
+}

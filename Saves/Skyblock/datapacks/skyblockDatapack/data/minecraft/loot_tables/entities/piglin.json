@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+	{
+	  "rolls": 1,
+	  "entries": [
+	    {
+		  "type": "item",
+		  "name": "minecraft:blackstone"
+
+		}
+		],
+
+		"conditions": [
+			{
+				"condition": "minecraft:random_chance",
+				"chance": 0.010
+			}
+		]
+	}
+	]
+}

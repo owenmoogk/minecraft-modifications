@@ -1,0 +1,59 @@
+{
+  "parent": "skyblock:adventure/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:cartography_table"
+    },
+    "title": {
+      "translate": "Tourist Trap"
+    },
+    "description": {
+      "translate": "Visit all types of structures in the overworld"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "mansion": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "mansion"
+      }
+    },
+    "monument": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "monument"
+      }
+    },
+    "pillager_outpost": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "pillager_outpost"
+      }
+    },
+    "swamp_hut": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "swamp_hut"
+      }
+    }
+    
+  },
+  "requirements": [
+    [
+      "mansion"
+    ],
+    [
+      "monument"
+    ],
+    [
+      "pillager_outpost"
+    ],
+    [
+      "swamp_hut"
+    ]
+  ]
+}

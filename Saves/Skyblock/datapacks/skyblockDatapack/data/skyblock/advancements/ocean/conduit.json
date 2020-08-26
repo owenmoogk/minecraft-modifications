@@ -1,0 +1,35 @@
+{
+  "parent": "skyblock:ocean/conduit_root",
+  "display": {
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner:{Id:[I;-1877201782,-2014885665,-2088781818,1906282357],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjEwZjc5YWE1MGU4MmViM2YxYzYxNDYxYTVlMzQ4YzUxZmViMGI1ODBkYzhlYmZjOTkyYWU0MzY5OWY5ZTkzIn19fQ==\"}]}}}"
+    },
+    "title": {
+      "translate": "You Con-du-it"
+    },
+    "description": {
+      "translate": "Activate a conduit"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "conduit_power": {
+      "trigger": "effects_changed",
+      "conditions": {
+        "effects": {
+          "minecraft:conduit_power": {
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "conduit_power"
+    ]
+  ]
+}
