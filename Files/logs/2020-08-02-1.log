@@ -1,0 +1,743 @@
+[13:18:23] [main/INFO]: Loading tweak class name optifine.OptiFineTweaker
+[13:18:23] [main/INFO]: Using primary tweak class name optifine.OptiFineTweaker
+[13:18:23] [main/INFO]: Calling tweak class optifine.OptiFineTweaker
+[13:18:23] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[13:18:23] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.ICapabilityProvider
+[13:18:23] [main/INFO]: [OptiFine] (Reflector) Field not found: World.tileEntitiesToBeRemoved
+[13:18:23] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event$Result
+[13:18:23] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.hasTileEntity
+[13:18:23] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEntity
+[13:18:23] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.CrashReportExtender
+[13:18:26] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[13:18:26] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[13:18:26] [main/INFO]: Setting user: odoggy21
+[13:18:26] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
+[13:18:26] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
+[13:18:26] [main/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[13:18:26] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.loading.progress.EarlyProgressVisualization
+[13:18:28] [main/INFO]: [OptiFine] 
+[13:18:28] [main/INFO]: [OptiFine] OptiFine_1.16.1_HD_U_G2_pre4
+[13:18:28] [main/INFO]: [OptiFine] Build: 20200711-211327
+[13:18:28] [main/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[13:18:28] [main/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[13:18:28] [main/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[13:18:28] [main/INFO]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
+[13:18:28] [main/INFO]: [OptiFine] OpenGL: GeForce GTX 1050/PCIe/SSE2, version 4.6.0 NVIDIA 442.23, NVIDIA Corporation
+[13:18:28] [main/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[13:18:28] [main/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[13:18:28] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[13:18:28] [main/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 442.23
+[13:18:28] [main/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[13:18:28] [main/INFO]: [Shaders] Renderer: GeForce GTX 1050/PCIe/SSE2
+[13:18:28] [main/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[13:18:28] [main/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[13:18:28] [main/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[13:18:28] [main/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[13:18:28] [main/INFO]: [Shaders] Load shaders configuration.
+[13:18:28] [main/INFO]: [Shaders] No shaderpack loaded.
+[13:18:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[13:18:28] [VersionCheck/INFO]: [OptiFine] Version found: G2
+[13:18:28] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.ForgeBlockModelRenderer
+[13:18:29] [main/INFO]: Narrator library for x64 successfully loaded
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.gui.screen.ModListScreen
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
+[13:18:29] [main/INFO]: Reloading ResourceManager: Default, Redstone Lines, Owen's Resource Pack
+[13:18:29] [main/INFO]: [OptiFine] *** Reloading textures ***
+[13:18:29] [main/INFO]: [OptiFine] Resource packs: Redstone Lines, Owen's Resource Pack
+[13:18:29] [main/INFO]: [OptiFine] EmissiveTextures: Loading optifine/emissive.properties
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: ebu.canRenderInLayer
+[13:18:29] [main/INFO]: [OptiFine] *** Reflector Forge ***
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.BrandingControl
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.CapabilityProvider
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientModLoader
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkDataEvent$Save
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Load
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Unload
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientHooks
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.DimensionManager
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityJoinWorldEvent
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.isCanceled
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.getResult
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.IEventBus
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeBlock
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: ecp.getTexture
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addDestroyEffects
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addHitEffects
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getLightValue
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getSoundType
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getStateAtViewpoint
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.isAir
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.shouldDisplayFluidOverlay
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeFluid
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fluids.FluidAttributes
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: aoq.getTags
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Field not present: aoy.NAMETAG_DISTANCE
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[13:18:29] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[13:18:29] [Worker-Main-13/INFO]: [OptiFine] Multitexture: false
+[13:18:29] [Worker-Main-14/INFO]: [OptiFine] Multitexture: false
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: cwz.getTags
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig$Client
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec$ConfigValue
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: cgy.getWorldForge
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItem
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItemStack
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ForgeI18n
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: dlu.setKeyConflictContext
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: dlu.setKeyModifierAndCode
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: dlu.getKeyModifier
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEffectInstance
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.registries.ForgeRegistryEntry
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Method not present: ebu.canRenderInLayer
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeTileEntity
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeDimension
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader$VanillaLoader
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoaderRegistry
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.PlaySoundAtEntityEvent
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderNameplateEvent
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.server.ServerLifecycleHooks
+[13:18:29] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[13:18:29] [main/INFO]: [OptiFine] *** Reflector Vanilla ***
+[13:18:29] [main/INFO]: [OptiFine] Loading optifine/color.properties
+[13:18:29] [main/INFO]: [OptiFine] screen.loading = 000000
+[13:18:29] [main/INFO]: [OptiFine] screen.loading.bar = 000000
+[13:18:29] [main/INFO]: [OptiFine] screen.loading.progress = ffffff
+[13:18:32] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'minecraft:blockstates/kelp.json' in resourcepack: 'Owen's Resource Pack' for variant: 'normal': Unknown blockstate property: 'normal'
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/aqua_affinity.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/bane_of_arthropods.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/blast_protection.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/channeling.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/curse_of_binding.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/curse_of_vanishing.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/depth_strider.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/efficiency.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/feather_falling.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/fire_aspect.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/fire_protection.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/flame.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/fortune.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/frost_walker.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/impailing.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/infinity.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/axe/diamond_axe/diamond_axe2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/axe/diamond_axe/diamond_axe3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/axe/diamond_axe/diamond_axe4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/axe/golden_axe/golden_axe2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/axe/golden_axe/golden_axe3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/axe/golden_axe/golden_axe4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/axe/iron_axe/iron_axe2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/axe/iron_axe/iron_axe3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/axe/iron_axe/iron_axe4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/axe/stone_axe/stone_axe2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/axe/stone_axe/stone_axe3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/axe/stone_axe/stone_axe4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/axe/wooden_axe/wooden-axe4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/axe/wooden_axe/wooden_axe2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/axe/wooden_axe/wooden_axe3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/boots/chailmail_boots/chainmail_boots2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/boots/chailmail_boots/chainmail_boots3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/boots/chailmail_boots/chainmail_boots4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/boots/diamond_boots/diamond_boots2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/boots/diamond_boots/diamond_boots3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/boots/diamond_boots/diamond_boots4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/boots/golden_boots/golden_boots2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/boots/golden_boots/golden_boots3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/boots/golden_boots/golden_boots4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/boots/iron_boots/iron_boots2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/boots/iron_boots/iron_boots3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/boots/iron_boots/iron_boots4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/boots/leather_boots/leather_boots2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/boots/leather_boots/leather_boots3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/boots/leather_boots/leather_boots4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/bow/bow2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/bow/bow3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/bow/bow4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/carrot_on_a_stick/carrot_on_a_stick2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/carrot_on_a_stick/carrot_on_a_stick3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/carrot_on_a_stick/carrot_on_a_stick4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/chestplate/chainmail_chestplate/chainmail_chestplate2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/chestplate/chainmail_chestplate/chainmail_chestplate3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/chestplate/chainmail_chestplate/chainmail_chestplate4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/chestplate/diamond_chestplate/diamond_chestplate2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/chestplate/diamond_chestplate/diamond_chestplate3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/chestplate/diamond_chestplate/diamond_chestplate4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/chestplate/golden_chestplate/golden_chestplate2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/chestplate/golden_chestplate/golden_chestplate3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/chestplate/golden_chestplate/golden_chestplate4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/chestplate/iron_chestplate/iron_chestplate2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/chestplate/iron_chestplate/iron_chestplate3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/chestplate/iron_chestplate/iron_chestplate4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/chestplate/leather_chestplate/leather_chestplate2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/chestplate/leather_chestplate/leather_chestplate3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/chestplate/leather_chestplate/leather_chestplate4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/crossbow/crossbow2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/crossbow/crossbow3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/crossbow/crossbow4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/fishing_rod/fishing_rod2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/fishing_rod/fishing_rod3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/fishing_rod/fishing_rod4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/flint_and_steel/flint_and_steel_2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/flint_and_steel/flint_and_steel_3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/flint_and_steel/flint_and_steel_4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/chailmail_helmet/chainmail_helmet2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/chailmail_helmet/chainmail_helmet3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/chailmail_helmet/chainmail_helmet4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/diamond_helmet/diamond_helmet2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/diamond_helmet/diamond_helmet3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/diamond_helmet/diamond_helmet4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/golden_helmet/golden_helmet2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/golden_helmet/golden_helmet3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/golden_helmet/golden_helmet4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/iron_helmet/iron_helmet2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/iron_helmet/iron_helmet3.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/iron_helmet/iron_helmet4.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/leather_helmet/leather_helmet2.properties
+[13:18:34] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/leather_helmet/leather_helmet3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/leather_helmet/leather_helmet4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/turtle_helmet/turtle_helmet2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/turtle_helmet/turtle_helmet3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/helmet/turtle_helmet/turtle_helmet4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/hoe/diamond_hoe/diamond_hoe2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/hoe/diamond_hoe/diamond_hoe3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/hoe/diamond_hoe/diamond_hoe4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/hoe/golden_hoe/golden_hoe2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/hoe/golden_hoe/golden_hoe3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/hoe/golden_hoe/golden_hoe4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/hoe/iron_hoe/iron_hoe2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/hoe/iron_hoe/iron_hoe3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/hoe/iron_hoe/iron_hoe4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/hoe/stone_hoe/stone_hoe2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/hoe/stone_hoe/stone_hoe3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/hoe/stone_hoe/stone_hoe4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/hoe/wooden_hoe/wooden-hoe4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/hoe/wooden_hoe/wooden_hoe2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/hoe/wooden_hoe/wooden_hoe3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/leggings/chainmail_leggings/chainmail_leggings2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/leggings/chainmail_leggings/chainmail_leggings3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/leggings/chainmail_leggings/chainmail_leggings4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/leggings/diamond_leggings/diamond_leggings2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/leggings/diamond_leggings/diamond_leggings3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/leggings/diamond_leggings/diamond_leggings4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/leggings/golden_leggings/golden_leggings2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/leggings/golden_leggings/golden_leggings3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/leggings/golden_leggings/golden_leggings4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/leggings/iron_leggings/iron_leggings2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/leggings/iron_leggings/iron_leggings3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/leggings/iron_leggings/iron_leggings4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/leggings/leather_leggings/leather_leggings2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/leggings/leather_leggings/leather_leggings3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/leggings/leather_leggings/leather_leggings4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/pickaxe/diamond_pickaxe/diamond_pickaxe2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/pickaxe/diamond_pickaxe/diamond_pickaxe3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/pickaxe/diamond_pickaxe/diamond_pickaxe4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/pickaxe/golden_pickaxe/golden_pickaxe2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/pickaxe/golden_pickaxe/golden_pickaxe3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/pickaxe/golden_pickaxe/golden_pickaxe4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/pickaxe/iron_pickaxe/iron_pickaxe2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/pickaxe/iron_pickaxe/iron_pickaxe3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/pickaxe/iron_pickaxe/iron_pickaxe4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/pickaxe/stone_pickaxe/stone_pickaxe2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/pickaxe/stone_pickaxe/stone_pickaxe3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/pickaxe/stone_pickaxe/stone_pickaxe4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/pickaxe/wooden_pickaxe/wooden-pickaxe4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/pickaxe/wooden_pickaxe/wooden_pickaxe2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/pickaxe/wooden_pickaxe/wooden_pickaxe3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shears/shears2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shears/shears3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shears/shears4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shovel/diamond_shovel/diamond_shovel2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shovel/diamond_shovel/diamond_shovel3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shovel/diamond_shovel/diamond_shovel4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shovel/golden_shovel/golden_shovel2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shovel/golden_shovel/golden_shovel3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shovel/golden_shovel/golden_shovel4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shovel/iron_shovel/iron_shovel2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shovel/iron_shovel/iron_shovel3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shovel/iron_shovel/iron_shovel4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shovel/stone_shovel/stone_shovel2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shovel/stone_shovel/stone_shovel3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shovel/stone_shovel/stone_shovel4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shovel/wooden_shovel/wooden-shovel4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shovel/wooden_shovel/wooden_shovel2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/shovel/wooden_shovel/wooden_shovel3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/sword/diamond_sword/diamond_sword2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/sword/diamond_sword/diamond_sword3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/sword/diamond_sword/diamond_sword4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/sword/golden_sword/golden_sword2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/sword/golden_sword/golden_sword3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/sword/golden_sword/golden_sword4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/sword/iron_sword/iron_sword2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/sword/iron_sword/iron_sword3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/sword/iron_sword/iron_sword4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/sword/stone_sword/stone_sword2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/sword/stone_sword/stone_sword3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/sword/stone_sword/stone_sword4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/sword/wooden_sword/wooden-sword4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/sword/wooden_sword/wooden_sword2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/sword/wooden_sword/wooden_sword3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/trident/trident2.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/trident/trident3.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/items/trident/trident4.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/knockback.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/looting.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/loyalty.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/luck_of_the_sea.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/lure.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/mending.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/multishot.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/piercing.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/power.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/projectile_protection.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/protection.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/punch.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/quick_charge.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/respiration.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/riptide.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/sharpness.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/silk_touch.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/smite.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/sweeping_edge.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/thorns.properties
+[13:18:35] [Worker-Main-8/INFO]: [OptiFine] CustomItems: optifine/cit/unbreaking.properties
+[13:18:36] [Worker-Main-8/WARN]: Unable to resolve texture reference: #missing in minecraft:block/lever_on
+[13:18:36] [Worker-Main-8/WARN]: Unable to resolve texture reference: #missing in minecraft:block/lever
+[13:18:36] [Worker-Main-8/WARN]: Unable to resolve texture reference: #missing in minecraft:item/lever
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/aregular/glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/aregular/glass_pane.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/black/black_stained_glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/black/black_stained_glass_pane.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/black/glass_black.properties
+[13:18:36] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/black/glass_black.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/blue/blue_stained_glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/blue/blue_stained_glass_pane.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/blue/glass_blue.properties
+[13:18:36] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/blue/glass_blue.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/brown/brown_stained_glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/brown/brown_stained_glass_pane.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/brown/glass_brown.properties
+[13:18:36] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/brown/glass_brown.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/cyan/cyan_stained_glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/cyan/cyan_stained_glass_pane.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/cyan/glass_cyan.properties
+[13:18:36] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/cyan/glass_cyan.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/gray/glass_gray.properties
+[13:18:36] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/gray/glass_gray.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/gray/gray_stained_glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/gray/gray_stained_glass_pane.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/green/glass_green.properties
+[13:18:36] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/green/glass_green.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/green/green_stained_glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/green/green_stained_glass_pane.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/lightblue/glass_light_blue.properties
+[13:18:36] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/lightblue/glass_light_blue.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/lightblue/light_blue_stained_glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/lightblue/light_blue_stained_glass_pane.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/lime/glass_lime.properties
+[13:18:36] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/lime/glass_lime.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/lime/lime_stained_glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/lime/lime_stained_glass_pane.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/magenta/glass_magenta.properties
+[13:18:36] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/magenta/glass_magenta.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/magenta/magenta_stained_glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/magenta/magenta_stained_glass_pane.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/orange/glass_orange.properties
+[13:18:36] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/orange/glass_orange.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/orange/orange_stained_glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/orange/orange_stained_glass_pane.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/pink/glass_pink.properties
+[13:18:36] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/pink/glass_pink.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/pink/pink_stained_glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/pink/pink_stained_glass_pane.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/purple/glass_purple.properties
+[13:18:36] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/purple/glass_purple.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/purple/purple_stained_glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/purple/purple_stained_glass_pane.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/red/glass_red.properties
+[13:18:36] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/red/glass_red.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/red/red_stained_glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/red/red_stained_glass_pane.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/silver/glass_silver.properties
+[13:18:36] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/silver/glass_silver.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/silver/light_gray_stained_glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/silver/light_gray_stained_glass_pane.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/white/glass_white.properties
+[13:18:36] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/white/glass_white.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/white/white_stained_glass.properties
+[13:18:36] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/white/white_stained_glass_pane.properties
+[13:18:37] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/yellow/glass_yellow.properties
+[13:18:37] [Worker-Main-8/WARN]: [OptiFine] No matchBlocks or matchTiles specified: optifine/ctm/glass/yellow/glass_yellow.properties
+[13:18:37] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/yellow/yellow_stained_glass.properties
+[13:18:37] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/glass/yellow/yellow_stained_glass_pane.properties
+[13:18:37] [Worker-Main-8/INFO]: [OptiFine] Multipass connected textures: false
+[13:18:37] [Worker-Main-8/INFO]: [OptiFine] Multipass connected textures: false
+[13:18:37] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[13:18:37] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[13:18:37] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[13:18:37] [Worker-Main-8/INFO]: [OptiFine] Multipass connected textures: false
+[13:18:37] [Worker-Main-8/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[13:18:41] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 4
+[13:18:41] [Worker-Main-14/ERROR]: Using missing texture, unable to load minecraft:optifine/ctm/default/empty.png.png : java.io.FileNotFoundException: minecraft:optifine/ctm/default/empty.png.png
+[13:18:41] [Worker-Main-10/ERROR]: Using missing texture, unable to load minecraft:textures/block/stone_slab_top.png : java.io.FileNotFoundException: minecraft:textures/block/stone_slab_top.png
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
+[13:18:42] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
+[13:18:43] [main/INFO]: OpenAL initialized.
+[13:18:43] [main/INFO]: Sound engine started
+[13:18:43] [main/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[13:18:43] [main/INFO]: [OptiFine] Animated sprites: 44
+[13:18:43] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[13:18:43] [main/INFO]: [OptiFine] Animated sprites: 0
+[13:18:43] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:18:43] [main/INFO]: [OptiFine] Animated sprites: 0
+[13:18:43] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:18:43] [main/INFO]: [OptiFine] Animated sprites: 0
+[13:18:43] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[13:18:43] [main/INFO]: [OptiFine] Animated sprites: 0
+[13:18:43] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13:18:43] [main/INFO]: [OptiFine] Animated sprites: 0
+[13:18:43] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:18:43] [main/INFO]: [OptiFine] Animated sprites: 0
+[13:18:44] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:18:44] [main/INFO]: [OptiFine] Animated sprites: 0
+[13:18:44] [main/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/paintings.png-atlas
+[13:18:44] [main/INFO]: [OptiFine] Animated sprites: 0
+[13:18:44] [main/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:18:44] [main/INFO]: [OptiFine] Animated sprites: 0
+[13:18:44] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[13:18:44] [main/INFO]: [OptiFine] CustomColors: Loading optifine/color.properties
+[13:18:47] [main/INFO]: [OptiFine] Disable Forge light pipeline
+[13:18:50] [main/ERROR]: Invalid icon for world Owen's World
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829) ~[Validate.class:3.5]
+	at duf$a.g(SourceFile:423) [duf$a.class:?]
+	at duf$a.<init>(SourceFile:182) [duf$a.class:?]
+	at duf.a(SourceFile:102) [duf.class:?]
+	at duf.<init>(SourceFile:77) [duf.class:?]
+	at duc.b(SourceFile:48) [duc.class:?]
+	at dqs.b(SourceFile:321) [dqs.class:?]
+	at dlx.a(SourceFile:895) [dlx.class:?]
+	at dqw.lambda$addSingleplayerMultiplayerButtons$4(MainMenuScreen.java:192) [dqw.class:?]
+	at dqw$$Lambda$2633/360093465.onPress(Unknown Source) [dqw.class:?]
+	at dni.b(SourceFile:33) [dni.class:?]
+	at dnc.a(SourceFile:16) [dnc.class:?]
+	at dng.a(SourceFile:149) [dng.class:?]
+	at doe.a(SourceFile:27) [doe.class:?]
+	at dqw.a(MainMenuScreen.java:410) [dqw.class:?]
+	at dly.b(SourceFile:92) [dly.class:?]
+	at dly$$Lambda$2964/1537958375.run(Unknown Source) [dly.class:?]
+	at dqs.a(SourceFile:431) [dqs.class:?]
+	at dly.a(SourceFile:92) [dly.class:?]
+	at dly.c(SourceFile:162) [dly.class:?]
+	at dly$$Lambda$2963/1460734621.run(Unknown Source) [dly.class:?]
+	at amn.execute(ThreadTaskExecutor.java:104) [amn.class:?]
+	at dly.b(SourceFile:162) [dly.class:?]
+	at dly$$Lambda$2280/1153079397.invoke(Unknown Source) [dly.class:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36) [lwjgl-glfw-3.2.2.jar:build 10]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.2.2.jar:build 10]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174) [lwjgl-glfw-3.2.2.jar:build 10]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(SourceFile:127) [RenderSystem.class:?]
+	at dlx.e(SourceFile:1044) [dlx.class:?]
+	at dlx.e(SourceFile:654) [dlx.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:215) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[13:18:51] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:18:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:18:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:18:51] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:18:51] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:18:51] [main/INFO]: Reloading ResourceManager: Default, anti ghast grief v1.0.0.zip, crafting.zip, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, silence mobs v1.0.0.zip, smartsaplings.zip, villager workstation highlights v1.0.0.zip, witherskeletonskull.zip, Uncraftable Ice.zip, more mob heads v2.6.2.zip, anti creeper grief v1.0.2.zip, spawning spheres v1.0.0.zip, coal to dye.zip, slabtoblock
+[13:18:52] [main/INFO]: Loaded 7 recipes
+[13:18:52] [main/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[13:18:52] [main/INFO]: Loaded 964 advancements
+[13:18:52] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[13:18:52] [Server thread/INFO]: Starting integrated minecraft server version 1.16.1
+[13:18:52] [Server thread/INFO]: Generating keypair
+[13:18:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:18:53] [main/INFO]: Preparing spawn area: 0%
+[13:18:53] [main/INFO]: Preparing spawn area: 0%
+[13:18:53] [main/INFO]: Time elapsed: 993 ms
+[13:18:53] [Server thread/ERROR]: Couldn't load server icon
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829) ~[Validate.class:3.5]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:776) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:653) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:256) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$$Lambda$3951/642281063.run(Unknown Source) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[13:18:54] [Server thread/INFO]: Changing view distance to 30, from 10
+[13:18:55] [Server thread/INFO]: odoggy21[local:E:84476af1] logged in with entity id 73 at (818.3502971671454, 118.93605506382228, -596.776099726727)
+[13:18:55] [Server thread/INFO]: odoggy21 joined the game
+[13:18:56] [Server thread/INFO]: Saving and pausing game...
+[13:18:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:overworld
+[13:18:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_nether
+[13:18:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_end
+[13:18:58] [main/INFO]: Loaded 649 advancements
+[13:18:58] [main/INFO]: [CHAT] A new §eOptiFine§f version is available: §e§nHD Ultra G2§r§f
+[13:19:05] [Server thread/INFO]: <odoggy21> ok
+[13:19:05] [main/INFO]: [CHAT] <odoggy21> ok
+[13:20:37] [main/INFO]: [CHAT] [Debug]: Hitboxes: shown
+[13:24:19] [Server thread/INFO]: Saving and pausing game...
+[13:24:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:overworld
+[13:24:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_nether
+[13:24:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_end
+[13:37:16] [Server thread/INFO]: [odoggy21: Gave 4 [Soul Sand] to odoggy21]
+[13:37:16] [main/INFO]: [CHAT] Gave 4 [Soul Sand] to odoggy21
+[13:37:23] [Server thread/INFO]: [odoggy21: Gave 3 [Wither Skeleton Skull] to odoggy21]
+[13:37:23] [main/INFO]: [CHAT] Gave 3 [Wither Skeleton Skull] to odoggy21
+[13:37:53] [Server thread/WARN]: Fetching packet for removed entity bbg['Feather'/2838, l='ServerLevel[Owen's World]', x=814.49, y=70.00, z=-601.61]
+[13:37:53] [Server thread/WARN]: Fetching packet for removed entity bbg['Raw Chicken'/2839, l='ServerLevel[Owen's World]', x=814.49, y=70.00, z=-601.61]
+[13:37:53] [Server thread/WARN]: Fetching packet for removed entity bbg['Wither Rose'/2840, l='ServerLevel[Owen's World]', x=814.49, y=70.00, z=-601.61]
+[13:41:52] [Server thread/INFO]: [odoggy21: Gave 1 [Iron Trapdoor] to odoggy21]
+[13:41:52] [main/INFO]: [CHAT] Gave 1 [Iron Trapdoor] to odoggy21
+[13:42:22] [Server thread/INFO]: [odoggy21: Summoned new Chicken]
+[13:42:22] [main/INFO]: [CHAT] Summoned new Chicken
+[13:43:22] [Server thread/INFO]: Saving and pausing game...
+[13:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:overworld
+[13:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_nether
+[13:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_end
+[13:43:22] [Server thread/INFO]: odoggy21 lost connection: Disconnected
+[13:43:22] [Server thread/INFO]: odoggy21 left the game
+[13:43:22] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[13:43:22] [Server thread/INFO]: Stopping server
+[13:43:22] [Server thread/INFO]: Saving players
+[13:43:22] [Server thread/INFO]: Saving worlds
+[13:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:overworld
+[13:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (Owen's World): All chunks are saved
+[13:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_nether
+[13:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:43:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_end
+[13:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (Owen's World): All chunks are saved
+[13:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:43:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:43:25] [main/ERROR]: Invalid icon for world Owen's World
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829) ~[Validate.class:3.5]
+	at duf$a.g(SourceFile:423) [duf$a.class:?]
+	at duf$a.<init>(SourceFile:182) [duf$a.class:?]
+	at duf.a(SourceFile:102) [duf.class:?]
+	at duf.<init>(SourceFile:77) [duf.class:?]
+	at duc.b(SourceFile:48) [duc.class:?]
+	at dqs.b(SourceFile:321) [dqs.class:?]
+	at dlx.a(SourceFile:895) [dlx.class:?]
+	at dqw.lambda$addSingleplayerMultiplayerButtons$4(MainMenuScreen.java:192) [dqw.class:?]
+	at dqw$$Lambda$2633/360093465.onPress(Unknown Source) [dqw.class:?]
+	at dni.b(SourceFile:33) [dni.class:?]
+	at dnc.a(SourceFile:16) [dnc.class:?]
+	at dng.a(SourceFile:149) [dng.class:?]
+	at doe.a(SourceFile:27) [doe.class:?]
+	at dqw.a(MainMenuScreen.java:410) [dqw.class:?]
+	at dly.b(SourceFile:92) [dly.class:?]
+	at dly$$Lambda$2964/1537958375.run(Unknown Source) [dly.class:?]
+	at dqs.a(SourceFile:431) [dqs.class:?]
+	at dly.a(SourceFile:92) [dly.class:?]
+	at dly.c(SourceFile:162) [dly.class:?]
+	at dly$$Lambda$2963/1460734621.run(Unknown Source) [dly.class:?]
+	at amn.execute(ThreadTaskExecutor.java:104) [amn.class:?]
+	at dly.b(SourceFile:162) [dly.class:?]
+	at dly$$Lambda$2280/1153079397.invoke(Unknown Source) [dly.class:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36) [lwjgl-glfw-3.2.2.jar:build 10]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.2.2.jar:build 10]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174) [lwjgl-glfw-3.2.2.jar:build 10]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(SourceFile:127) [RenderSystem.class:?]
+	at dlx.e(SourceFile:1044) [dlx.class:?]
+	at dlx.e(SourceFile:654) [dlx.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:215) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[13:43:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:43:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:43:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:43:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:43:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:43:26] [main/INFO]: Reloading ResourceManager: Default
+[13:43:26] [main/INFO]: Loaded 7 recipes
+[13:43:26] [main/INFO]: Loaded 927 advancements
+[13:43:26] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[13:43:26] [Server thread/INFO]: Starting integrated minecraft server version 1.16.1
+[13:43:26] [Server thread/INFO]: Generating keypair
+[13:43:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:43:27] [main/INFO]: Preparing spawn area: 0%
+[13:43:27] [main/INFO]: Preparing spawn area: 0%
+[13:43:27] [main/INFO]: Time elapsed: 950 ms
+[13:43:27] [Server thread/INFO]: Changing view distance to 30, from 10
+[13:43:28] [Server thread/INFO]: odoggy21[local:E:9e536507] logged in with entity id 4114 at (-67.82246630499867, 119.04236211433293, 68.8742219524417)
+[13:43:28] [Server thread/INFO]: odoggy21 joined the game
+[13:43:28] [Server thread/INFO]: Saving and pausing game...
+[13:43:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[wither rose farm]'/minecraft:overworld
+[13:43:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[wither rose farm]'/minecraft:the_nether
+[13:43:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[wither rose farm]'/minecraft:the_end
+[13:43:28] [main/INFO]: Loaded 77 advancements
+[13:43:28] [main/WARN]: Received passengers for unknown entity
+[13:43:29] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[13:43:29] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[13:43:42] [Server thread/INFO]: Saving and pausing game...
+[13:43:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[wither rose farm]'/minecraft:overworld
+[13:43:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[wither rose farm]'/minecraft:the_nether
+[13:43:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[wither rose farm]'/minecraft:the_end
+[13:43:43] [Server thread/INFO]: odoggy21 lost connection: Disconnected
+[13:43:43] [Server thread/INFO]: odoggy21 left the game
+[13:43:43] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[13:43:43] [Server thread/INFO]: Stopping server
+[13:43:43] [Server thread/INFO]: Saving players
+[13:43:43] [Server thread/INFO]: Saving worlds
+[13:43:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[wither rose farm]'/minecraft:overworld
+[13:43:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (1.16 wither rose farm WDL2): All chunks are saved
+[13:43:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[wither rose farm]'/minecraft:the_nether
+[13:43:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:43:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[wither rose farm]'/minecraft:the_end
+[13:43:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:43:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (1.16 wither rose farm WDL2): All chunks are saved
+[13:43:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:43:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:43:45] [main/ERROR]: Invalid icon for world Owen's World
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829) ~[Validate.class:3.5]
+	at duf$a.g(SourceFile:423) [duf$a.class:?]
+	at duf$a.<init>(SourceFile:182) [duf$a.class:?]
+	at duf.a(SourceFile:102) [duf.class:?]
+	at duf.<init>(SourceFile:77) [duf.class:?]
+	at duc.b(SourceFile:48) [duc.class:?]
+	at dqs.b(SourceFile:321) [dqs.class:?]
+	at dlx.a(SourceFile:895) [dlx.class:?]
+	at dqw.lambda$addSingleplayerMultiplayerButtons$4(MainMenuScreen.java:192) [dqw.class:?]
+	at dqw$$Lambda$2633/360093465.onPress(Unknown Source) [dqw.class:?]
+	at dni.b(SourceFile:33) [dni.class:?]
+	at dnc.a(SourceFile:16) [dnc.class:?]
+	at dng.a(SourceFile:149) [dng.class:?]
+	at doe.a(SourceFile:27) [doe.class:?]
+	at dqw.a(MainMenuScreen.java:410) [dqw.class:?]
+	at dly.b(SourceFile:92) [dly.class:?]
+	at dly$$Lambda$2964/1537958375.run(Unknown Source) [dly.class:?]
+	at dqs.a(SourceFile:431) [dqs.class:?]
+	at dly.a(SourceFile:92) [dly.class:?]
+	at dly.c(SourceFile:162) [dly.class:?]
+	at dly$$Lambda$2963/1460734621.run(Unknown Source) [dly.class:?]
+	at amn.execute(ThreadTaskExecutor.java:104) [amn.class:?]
+	at dly.b(SourceFile:162) [dly.class:?]
+	at dly$$Lambda$2280/1153079397.invoke(Unknown Source) [dly.class:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36) [lwjgl-glfw-3.2.2.jar:build 10]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.2.2.jar:build 10]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174) [lwjgl-glfw-3.2.2.jar:build 10]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(SourceFile:127) [RenderSystem.class:?]
+	at dlx.e(SourceFile:1044) [dlx.class:?]
+	at dlx.e(SourceFile:654) [dlx.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:215) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[13:43:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:43:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:43:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:43:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:43:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:43:46] [main/INFO]: Reloading ResourceManager: Default, anti ghast grief v1.0.0.zip, crafting.zip, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, silence mobs v1.0.0.zip, smartsaplings.zip, villager workstation highlights v1.0.0.zip, witherskeletonskull.zip, Uncraftable Ice.zip, more mob heads v2.6.2.zip, anti creeper grief v1.0.2.zip, spawning spheres v1.0.0.zip, coal to dye.zip, slabtoblock
+[13:43:46] [main/INFO]: Loaded 7 recipes
+[13:43:46] [main/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[13:43:46] [main/INFO]: Loaded 964 advancements
+[13:43:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[13:43:46] [Server thread/INFO]: Starting integrated minecraft server version 1.16.1
+[13:43:46] [Server thread/INFO]: Generating keypair
+[13:43:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:43:47] [main/INFO]: Preparing spawn area: 0%
+[13:43:47] [main/INFO]: Time elapsed: 463 ms
+[13:43:47] [Server thread/ERROR]: Couldn't load server icon
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829) ~[Validate.class:3.5]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:776) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:653) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:256) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$$Lambda$3951/642281063.run(Unknown Source) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[13:43:47] [Server thread/INFO]: Changing view distance to 30, from 10
+[13:43:47] [Server thread/INFO]: odoggy21[local:E:c1a916a3] logged in with entity id 4497 at (810.6720806242266, 70.0, -591.4363955726113)
+[13:43:47] [Server thread/INFO]: odoggy21 joined the game
+[13:43:47] [Server thread/INFO]: Saving and pausing game...
+[13:43:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:overworld
+[13:43:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_nether
+[13:43:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_end
+[13:43:48] [main/INFO]: Loaded 649 advancements
+[13:44:07] [Server thread/WARN]: Fetching packet for removed entity bbg['Feather'/4783, l='ServerLevel[Owen's World]', x=814.53, y=70.00, z=-601.40]
+[13:44:07] [Server thread/WARN]: Fetching packet for removed entity bbg['Raw Chicken'/4784, l='ServerLevel[Owen's World]', x=814.53, y=70.00, z=-601.40]
+[13:44:07] [Server thread/WARN]: Fetching packet for removed entity bbg['Wither Rose'/4785, l='ServerLevel[Owen's World]', x=814.53, y=70.00, z=-601.40]
+[13:46:48] [Server thread/INFO]: [odoggy21: Gave 1 [Iron Trapdoor] to odoggy21]
+[13:46:48] [main/INFO]: [CHAT] Gave 1 [Iron Trapdoor] to odoggy21
+[13:47:00] [Server thread/INFO]: [odoggy21: Summoned new Chicken]
+[13:47:00] [main/INFO]: [CHAT] Summoned new Chicken
+[13:48:25] [Server thread/INFO]: [odoggy21: Gave 4 [Soul Sand] to odoggy21]
+[13:48:25] [main/INFO]: [CHAT] Gave 4 [Soul Sand] to odoggy21
+[13:48:29] [Server thread/INFO]: [odoggy21: Gave 3 [Wither Skeleton Skull] to odoggy21]
+[13:48:29] [main/INFO]: [CHAT] Gave 3 [Wither Skeleton Skull] to odoggy21
+[13:48:59] [Server thread/INFO]: [odoggy21: Gave 32 [Roast Chicken] to odoggy21]
+[13:48:59] [main/INFO]: [CHAT] Gave 32 [Roast Chicken] to odoggy21
+[13:51:05] [Server thread/WARN]: Fetching packet for removed entity bbg['Feather'/5905, l='ServerLevel[Owen's World]', x=805.39, y=70.00, z=-592.99]
+[13:51:05] [Server thread/WARN]: Fetching packet for removed entity bbg['Raw Chicken'/5906, l='ServerLevel[Owen's World]', x=805.39, y=70.00, z=-592.99]
+[13:51:05] [Server thread/WARN]: Fetching packet for removed entity bbg['Wither Rose'/5907, l='ServerLevel[Owen's World]', x=805.39, y=70.00, z=-592.99]
+[13:51:31] [Server thread/INFO]: [odoggy21: Summoned new Chicken]
+[13:51:31] [main/INFO]: [CHAT] Summoned new Chicken
+[13:51:35] [Server thread/INFO]: [odoggy21: Summoned new Chicken]
+[13:51:35] [main/INFO]: [CHAT] Summoned new Chicken
+[13:51:35] [Server thread/INFO]: [odoggy21: Summoned new Chicken]
+[13:51:35] [main/INFO]: [CHAT] Summoned new Chicken
+[13:51:35] [Server thread/INFO]: [odoggy21: Summoned new Chicken]
+[13:51:35] [main/INFO]: [CHAT] Summoned new Chicken
+[13:52:42] [Server thread/INFO]: [odoggy21: Summoned new Chicken]
+[13:52:42] [main/INFO]: [CHAT] Summoned new Chicken
+[13:54:44] [Server thread/INFO]: Saving and pausing game...
+[13:54:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:overworld
+[13:54:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_nether
+[13:54:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_end
+[13:55:55] [Server thread/INFO]: Saving and pausing game...
+[13:55:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:overworld
+[13:55:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_nether
+[13:55:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_end

@@ -1,0 +1,24 @@
+{
+    "__comment": "Modifications by Quazi",
+    "parent": "block/block",
+    "textures": {
+        "particle": "block/observer_back",
+        "front": "block/observer_front",
+        "back": "block/observer_back",
+        "side": "block/observer_side"
+    },
+    "elements": [
+        {
+            "from": [0.0, 0.0, 0.0], 
+            "to": [16.0, 16.0, 16.0], 
+            "faces": {
+                "north": {"texture": "#front", "uv": [0.0, 0.0, 16.0, 16.0]},
+                "east": {"texture": "#side", "uv": [0.0, 0.0, 16.0, 16.0], "rotation": 90},
+                "south": {"texture": "#back", "uv": [0.0, 0.0, 16.0, 16.0]},
+                "west": {"texture": "#side", "uv": [0.0, 0.0, 16.0, 16.0], "rotation": 270},
+                "up": {"texture": "#side", "uv": [0.0, 0.0, 16.0, 16.0]},
+                "down": {"texture": "#side", "uv": [0.0, 0.0, 16.0, 16.0], "rotation": 180}
+            }
+        }
+    ]
+}

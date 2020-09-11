@@ -1,0 +1,7 @@
+{
+    "parent": "block/xray_all",
+    "textures": {
+        "particle": "block/red_glazed_terracotta",
+        "all": "block/red_glazed_terracotta"
+    }
+}

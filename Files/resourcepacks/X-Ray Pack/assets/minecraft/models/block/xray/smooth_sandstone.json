@@ -1,0 +1,6 @@
+{
+    "parent": "block/xray_all",
+    "textures": {
+        "all": "block/sandstone_top"
+    }
+}

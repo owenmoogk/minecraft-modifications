@@ -1,0 +1,1140 @@
+[Info: 2020-09-11 01:23:24.2506531: NetQueue.cpp(232)] NetQueue: Setting up.
+[Info: 2020-09-11 01:23:24.2507815: mainWindows.cpp(81)] Running launcher bootstrap (version 771)
+[Info: 2020-09-11 01:23:24.2899577: NetQueue.cpp(232)] NetQueue: Setting up.
+[Info: 2020-09-11 01:23:24.3161400: Common.cpp(32)] Native Launcher Version: 771
+[Info: 2020-09-11 01:23:24.3162308: Common.cpp(33)] Operating System: Windows 10 Home
+[Info: 2020-09-11 01:23:24.3163532: Common.cpp(34)] Application Data directory: ...\.minecraft
+[Info: 2020-09-11 01:23:24.3163884: Common.cpp(35)] Executable Path: /.../MinecraftLauncher.exe
+[Info: 2020-09-11 01:23:24.3164180: Common.cpp(36)] App Directory dir: ...\Minecraft Launcher
+[Info: 2020-09-11 01:23:24.3164446: Common.cpp(37)] Game data directory: ...\.minecraft
+[Info: 2020-09-11 01:23:24.3164725: Common.cpp(38)] Launcher dir: ...\Minecraft Launcher\game
+[Info: 2020-09-11 01:23:24.3164986: Common.cpp(39)] Java dir: ...\Minecraft Launcher\runtime\jre-x64
+[Info: 2020-09-11 01:23:24.3165273: Common.cpp(40)] TmpDir dir: ...\MinecraftLauncher
+[Info: 2020-09-11 01:23:24.3165552: Common.cpp(41)] x64: true
+[Info: 2020-09-11 01:23:24.3165785: LauncherConfiguration.cpp(291)] Using update preferences at path: ...\.minecraft\launcher_profiles.json
+[Info: 2020-09-11 01:23:24.3222726: LauncherConfiguration.cpp(294)] Failed to read update preferences from ...\.minecraft\launcher_profiles.json
+[Info: 2020-09-11 01:23:24.3223398: LauncherConfiguration.cpp(305)] Using update preferences at path: ...\.minecraft\launcher_settings.json
+[Info: 2020-09-11 01:23:24.3262485: NetQueue.cpp(588)] NetQueue: worker thread started.
+[Info: 2020-09-11 01:23:24.3313491: NetQueue.cpp(603)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-09-11 01:23:24.6859872: NetQueue.cpp(474)] NetQueue: Primary ip: 13.224.35.130, Host: launchermeta.mojang.com
+[Info: 2020-09-11 01:23:24.6860510: NetQueue.cpp(541)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-09-11 01:23:24.6860792: NetQueue.cpp(562)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-09-11 01:23:24.6866479: LauncherConfiguration.cpp(198)] Deciding on update with strategy 2 and clientID 877601131
+[Info: 2020-09-11 01:23:24.6867238: LauncherConfiguration.cpp(214)] Version of launcher-bootstrap is current, no action is necessary.
+[Info: 2020-09-11 01:23:24.6867779: LauncherConfiguration.cpp(247)] Bootstrap is current
+[Info: 2020-09-11 01:23:24.6920797: LauncherConfiguration.cpp(198)] Deciding on update with strategy 2 and clientID 877601131
+[Info: 2020-09-11 01:23:24.6921538: LauncherConfiguration.cpp(214)] Version of launcher-core is current, no action is necessary.
+[Info: 2020-09-11 01:23:24.6922148: LauncherConfiguration.cpp(247)] Bootstrap is current
+[Info: 2020-09-11 01:23:24.6931223: LauncherConfiguration.cpp(198)] Deciding on update with strategy 2 and clientID 877601131
+[Info: 2020-09-11 01:23:24.6931934: LauncherConfiguration.cpp(214)] Version of jre-x64 is current, no action is necessary.
+[Info: 2020-09-11 01:23:24.6932461: LauncherConfiguration.cpp(247)] Bootstrap is current
+[Info: 2020-09-11 01:23:24.6933383: StartLibrary.cpp(70)] Starting ...\Minecraft Launcher\game\launcher.dll with ...\Minecraft Launcher\runtime\jre-x64\bin\javaw.exe
+[Info: 2020-09-11 01:23:24.7088340: StartLibrary.cpp(86)] Running launcher!
+[Info: 2020-09-11 01:23:24.7095071: LauncherMain.cpp(84)] Initiated models
+[Info: 2020-09-11 01:23:24.7109822: NetQueue.cpp(232)] NetQueue: Setting up.
+[Info: 2020-09-11 01:23:24.7110339: LauncherMain.cpp(217)] Running launcher core (version 2.1.17416)
+[Info: 2020-09-11 01:23:24.7113003: LauncherMain.cpp(230)] Initialization completed
+[Info: 2020-09-11 01:23:24.7116058: LauncherMain.cpp(253)] Main process: true
+[Info: 2020-09-11 01:23:24.7116582: LauncherMain.cpp(300)] workDir: ...\.minecraft
+[Info: 2020-09-11 01:23:24.7117176: LauncherMain.cpp(308)] appDir: ...\Minecraft Launcher
+[Info: 2020-09-11 01:23:24.7119551: LauncherMain.cpp(345)] Launcher core version: 2.1.17416 (1c0a034391fead9d7b359e73779267fd137afd75)
+[Info: 2020-09-11 01:23:24.7120470: NetQueue.cpp(232)] NetQueue: Setting up.
+[Info: 2020-09-11 01:23:24.7120779: LauncherController.cpp(389)] Constructing launcher controller with workDir: ...\.minecraft, isActive: 1
+[Info: 2020-09-11 01:23:24.7130486: ProfilesFileData.cpp(159)] Reading preferences on path: C:\Users\owenm\AppData\Roaming\.minecraft\launcher_profiles.json
+[Info: 2020-09-11 01:23:24.7133892: GameVersionManager.cpp(78)] Looking for installed versions in ...\.minecraft\versions
+[Info: 2020-09-11 01:23:24.7198549: GameVersionManager.cpp(120)] Parsing version 1.16.1
+[Info: 2020-09-11 01:23:24.7263330: GameVersionManager.cpp(120)] Parsing version 1.16.1-Aristois
+[Info: 2020-09-11 01:23:24.7299370: GameVersionManager.cpp(120)] Parsing version 1.16.1-OptiFine_HD_U_G2_pre4
+[Info: 2020-09-11 01:23:24.7362680: GameVersionManager.cpp(120)] Parsing version 1.16.2
+[Info: 2020-09-11 01:23:24.7415085: GameVersionManager.cpp(120)] Parsing version 1.16.2-OptiFine_HD_U_G3
+[Info: 2020-09-11 01:23:24.7422597: GameVersionManager.cpp(120)] Parsing version 1.16.2-OptiFine_HD_U_G3_pre1
+[Info: 2020-09-11 01:23:24.7467084: GameVersionManager.cpp(120)] Parsing version 1.16.2-pre1
+[Info: 2020-09-11 01:23:24.7543686: GameVersionManager.cpp(120)] Parsing version 1.16.2-pre3
+[Info: 2020-09-11 01:23:24.7614629: GameVersionManager.cpp(120)] Parsing version 1.16.2-rc1
+[Info: 2020-09-11 01:23:24.7684703: GameVersionManager.cpp(120)] Parsing version 1.16.2-rc2
+[Info: 2020-09-11 01:23:24.7750119: GameVersionManager.cpp(120)] Parsing version 1.16.3
+[Info: 2020-09-11 01:23:24.7810506: GameVersionManager.cpp(120)] Parsing version 1.16.3-rc1
+[Info: 2020-09-11 01:23:24.7887635: GameVersionManager.cpp(120)] Parsing version 1.8.8
+[Info: 2020-09-11 01:23:24.7946883: GameVersionManager.cpp(120)] Parsing version 20w29a
+[Info: 2020-09-11 01:23:24.8011540: GameVersionManager.cpp(120)] Parsing version 20w30a
+[Info: 2020-09-11 01:23:24.8032206: NetQueue.cpp(588)] NetQueue: worker thread started.
+[Info: 2020-09-11 01:23:24.8064627: NetQueue.cpp(603)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest.json?_t=2020-09-11T01:23:24Z
+[Info: 2020-09-11 01:23:25.1181670: NetQueue.cpp(474)] NetQueue: Primary ip: 13.224.35.130, Host: launchermeta.mojang.com
+[Info: 2020-09-11 01:23:25.1182404: NetQueue.cpp(541)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest.json?_t=2020-09-11T01:23:24Z
+[Info: 2020-09-11 01:23:25.1182627: NetQueue.cpp(562)] NetQueue: Action finalized: https://launchermeta.mojang.com/mc/game/version_manifest.json?_t=2020-09-11T01:23:24Z
+[Info: 2020-09-11 01:23:25.1183528: GameVersionManager.cpp(195)] Got available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest.json?_t=2020-09-11T01:23:24Z
+[Info: 2020-09-11 01:23:25.1254677: SkinManagerLegacy.cpp(217)] Failed to read skins file: ...\.minecraft\launcher_skins.json
+[Info: 2020-09-11 01:23:25.1256695: NetQueue.cpp(603)] NetQueue: Starting net action https://authserver.mojang.com/validate
+[Info: 2020-09-11 01:23:25.1841053: LauncherAppBrowser.cpp(57)] Work dir is ...\.minecraft
+[Info: 2020-09-11 01:23:25.2112336: root_window_manager.cpp(85)] Main window has been opened: 03D28858
+[Info: 2020-09-11 01:23:25.4558056: LauncherMain.cpp(84)] Initiated models
+[Info: 2020-09-11 01:23:25.4559429: NetQueue.cpp(232)] NetQueue: Setting up.
+[Info: 2020-09-11 01:23:25.4559747: LauncherMain.cpp(217)] Running launcher core (version 2.1.17416)
+[Info: 2020-09-11 01:23:25.4571009: LauncherMain.cpp(230)] Initialization completed
+[Info: 2020-09-11 01:23:25.4576051: LauncherMain.cpp(253)] Main process: false
+[Info: 2020-09-11 01:23:25.4576665: LauncherMain.cpp(300)] workDir: ...\.minecraft
+[Info: 2020-09-11 01:23:25.4576894: LauncherMain.cpp(308)] appDir: ...
+[Info: 2020-09-11 01:23:25.4577614: NetQueue.cpp(232)] NetQueue: Setting up.
+[Info: 2020-09-11 01:23:25.4577834: LauncherController.cpp(389)] Constructing launcher controller with workDir: ...\.minecraft, isActive: 0
+[Info: 2020-09-11 01:23:25.4741026: LauncherAppRenderer.cpp(105)] Javascript bridge extended.
+[Info: 2020-09-11 01:23:25.5490807: NetQueue.cpp(474)] NetQueue: Primary ip: 13.33.162.69, Host: authserver.mojang.com
+[Info: 2020-09-11 01:23:25.5491380: NetQueue.cpp(541)] NetQueue: Action finished: https://authserver.mojang.com/validate
+[Info: 2020-09-11 01:23:25.5491544: NetQueue.cpp(562)] NetQueue: Action finalized: https://authserver.mojang.com/validate
+[Info: 2020-09-11 01:23:25.8136315: LauncherAppRenderer.cpp(247)] Creating renderer context
+[Info: 2020-09-11 01:23:26.0809798: ControllerInterface.cpp(105)] Running method getStore
+[Info: 2020-09-11 01:23:26.0839157: ControllerInterface.cpp(105)] Running method getStore
+[Info: 2020-09-11 01:23:26.1254548: ControllerInterface.cpp(133)] Running async method checkForUpdates
+[Info: 2020-09-11 01:23:26.1256802: NetQueue.cpp(603)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-09-11 01:23:26.1468236: NetQueue.cpp(474)] NetQueue: Primary ip: 13.224.35.130, Host: launchermeta.mojang.com
+[Info: 2020-09-11 01:23:26.1468953: NetQueue.cpp(541)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-09-11 01:23:26.1471889: NetQueue.cpp(562)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-09-11 01:23:29.0096940: ControllerInterface.cpp(105)] Running method downloadConfiguration
+[Info: 2020-09-11 01:23:29.0276234: GameController.cpp(348)] Creating ClientStarter with id 1
+[Info: 2020-09-11 01:23:29.0276992: NetQueue.cpp(232)] NetQueue: Setting up.
+[Info: 2020-09-11 01:23:29.0281159: GameCallbacks.cpp(163)] Launcher/launcher (main) Info Preparing to launch minecraft client for 1.16.3
+[Info: 2020-09-11 01:23:29.0339315: GameCallbacks.cpp(163)] Launcher/launcher (main) Debug Prepared asset index
+[Info: 2020-09-11 01:23:29.0599537: GameCallbacks.cpp(163)] Launcher/launcher (main) Debug Have 2642 total files to check or download
+[Info: 2020-09-11 01:23:29.0640226: ControllerInterface.cpp(105)] Running method updateConfiguration
+[Info: 2020-09-11 01:23:29.0656360: GameCallbacks.cpp(163)] Launcher/launcher (main) Debug Waiting for 2642 futures
+[Info: 2020-09-11 01:23:31.7929224: GameCallbacks.cpp(163)] Launcher/launcher (main) Info Checking installations.
+[Info: 2020-09-11 01:23:31.7941437: GameCallbacks.cpp(163)] Launcher/launcher (main) Info Minecraft client 1.16.3 is ready to start.
+[Info: 2020-09-11 01:23:31.7941726: GameController.cpp(441)] Starting game with token 1
+[Info: 2020-09-11 01:23:31.7942053: GameCallbacks.cpp(163)] Launcher/launcher (main) Info Starting!
+[Info: 2020-09-11 01:23:31.7942481: GameCallbacks.cpp(163)] Launcher/launcher (main) Debug Nothing to download!
+[Info: 2020-09-11 01:23:31.7942865: GameCallbacks.cpp(163)] Launcher/launcher (main) Debug Extracting 8 files!
+[Info: 2020-09-11 01:23:32.6035803: GameCallbacks.cpp(163)] Launcher/launcher (main) Info Using default game log configuration client-1.12.xml (outputs XML)
+[Info: 2020-09-11 01:23:32.6036419: GameCallbacks.cpp(163)] Launcher/launcher (main) Debug Installing versions!
+[Info: 2020-09-11 01:23:32.6041498: ClientStarter.cpp(811)] Java argument:-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+[Info: 2020-09-11 01:23:32.6041796: ClientStarter.cpp(811)] Java argument:-Dos.name=Windows 10
+[Info: 2020-09-11 01:23:32.6042001: ClientStarter.cpp(811)] Java argument:-Dos.version=10.0
+[Info: 2020-09-11 01:23:32.6042193: ClientStarter.cpp(811)] Java argument:-Xss1M
+[Info: 2020-09-11 01:23:32.6042426: ClientStarter.cpp(811)] Java argument:-Djava.library.path=C:\Users\owenm\AppData\Roaming\.minecraft\bin\801f-fb60-1e26-294f
+[Info: 2020-09-11 01:23:32.6042677: ClientStarter.cpp(811)] Java argument:-Dminecraft.launcher.brand=minecraft-launcher
+[Info: 2020-09-11 01:23:32.6042914: ClientStarter.cpp(811)] Java argument:-Dminecraft.launcher.version=2.1.17416
+[Info: 2020-09-11 01:23:32.6043130: ClientStarter.cpp(811)] Java argument:-cp
+[Info: 2020-09-11 01:23:32.6043355: ClientStarter.cpp(811)] Java argument:C:\Users\owenm\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.6.25\authlib-1.6.25.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;C:\Users\owenm\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;C:\Users\owenm\AppData\Roaming\.minecraft\versions\1.16.3\1.16.3.jar
+[Info: 2020-09-11 01:23:32.6043663: ClientStarter.cpp(811)] Java argument:-Xmx2G
+[Info: 2020-09-11 01:23:32.6044212: ClientStarter.cpp(811)] Java argument:-XX:+UnlockExperimentalVMOptions
+[Info: 2020-09-11 01:23:32.6044445: ClientStarter.cpp(811)] Java argument:-XX:+UseG1GC
+[Info: 2020-09-11 01:23:32.6044632: ClientStarter.cpp(811)] Java argument:-XX:G1NewSizePercent=20
+[Info: 2020-09-11 01:23:32.6044825: ClientStarter.cpp(811)] Java argument:-XX:G1ReservePercent=20
+[Info: 2020-09-11 01:23:32.6045010: ClientStarter.cpp(811)] Java argument:-XX:MaxGCPauseMillis=50
+[Info: 2020-09-11 01:23:32.6045257: ClientStarter.cpp(811)] Java argument:-XX:G1HeapRegionSize=32M
+[Info: 2020-09-11 01:23:32.6046251: ClientStarter.cpp(834)] Starting game in folder ...\.minecraft using java executable ...\Minecraft Launcher\runtime\jre-x64\bin\javaw.exe
+[Info: 2020-09-11 01:23:32.6047493: Process_Windows.cpp(33)] Creating process ...\Minecraft Launcher\runtime\jre-x64\bin\javaw.exe
+[Info: 2020-09-11 01:23:32.6055741: NetQueue.cpp(239)] NetQueue: Initiating shutdown.
+[Info: 2020-09-11 01:23:32.6057233: Process_Windows.cpp(102)] Starting process ...\Minecraft Launcher\runtime\jre-x64\bin\javaw.exe
+[Info: 2020-09-11 01:23:32.6112963: Process_Windows.cpp(153)] Read thread is 16956
+[Info: 2020-09-11 01:23:32.6117967: client_handler.cpp(651)] ClientHandler::NotifyBrowserClosing
+[Info: 2020-09-11 01:23:32.6120878: browser_window.cpp(56)] BrowserWindow::OnBrowserClosing
+[Info: 2020-09-11 01:23:32.6898617: browser_window.cpp(72)] BrowserWindow::OnBrowserClosed
+[Info: 2020-09-11 01:23:32.6901055: root_window_manager.cpp(331)] Main window has been closed: 03D28858
+[Info: 2020-09-11 01:23:32.6901612: root_window_manager.cpp(340)] All windows are gone.
+[Info: 2020-09-11 01:23:32.6902054: root_window_manager.cpp(342)] Checking if we can close the application...
+[Info: 2020-09-11 01:23:32.6902487: main_context.cpp(213)] Hiding launcher!
+[Info: 2020-09-11 01:23:37.0607000: GameCallbacks.cpp(163)] Game/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService (Render thread) Info Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[Info: 2020-09-11 01:23:37.0744908: GameCallbacks.cpp(163)] Game/djw (Render thread) Info Setting user: odoggy21
+[Info: 2020-09-11 01:23:37.3771094: GameCallbacks.cpp(163)] Game/djw (Render thread) Info Backend library: LWJGL version 3.2.2 build 10
+[Info: 2020-09-11 01:23:40.9284915: GameCallbacks.cpp(163)] Game/com.mojang.text2speech.NarratorWindows (Render thread) Info Narrator library for x64 successfully loaded
+[Info: 2020-09-11 01:23:41.0638974: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, Owen's Resource Pack, Redstone Lines, food-preview-ressources-pack.zip
+[Info: 2020-09-11 01:23:44.6933063: GameCallbacks.cpp(163)] Game/elk (Worker-Main-12) Warn Exception loading blockstate definition: 'minecraft:blockstates/kelp.json' in resourcepack: 'Owen's Resource Pack' for variant: 'normal': Unknown blockstate property: 'normal'
+[Info: 2020-09-11 01:23:47.8788645: GameCallbacks.cpp(163)] Game/elk (Worker-Main-12) Warn Unable to resolve texture reference: #missing in minecraft:block/lever_on
+[Info: 2020-09-11 01:23:47.8792467: GameCallbacks.cpp(163)] Game/elk (Worker-Main-12) Warn Unable to resolve texture reference: #missing in minecraft:block/lever
+[Info: 2020-09-11 01:23:47.8793769: GameCallbacks.cpp(163)] Game/elk (Worker-Main-12) Warn Unable to resolve texture reference: #missing in minecraft:item/lever
+[Info: 2020-09-11 01:23:48.1293428: GameCallbacks.cpp(163)] Game/ejt (Worker-Main-10) Error Using missing texture, unable to load minecraft:textures/block/stone_slab_top.png : java.io.FileNotFoundException: minecraft:textures/block/stone_slab_top.png
+[Info: 2020-09-11 01:23:49.6192755: GameCallbacks.cpp(163)] Game/dds (Render thread) Info OpenAL initialized.
+[Info: 2020-09-11 01:23:49.6214003: GameCallbacks.cpp(163)] Game/enj (Render thread) Info Sound engine started
+[Info: 2020-09-11 01:23:50.4007814: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[Info: 2020-09-11 01:23:50.5523629: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[Info: 2020-09-11 01:23:50.5537305: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[Info: 2020-09-11 01:23:50.5550535: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[Info: 2020-09-11 01:23:50.5573484: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[Info: 2020-09-11 01:23:50.5590732: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[Info: 2020-09-11 01:23:50.5597183: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[Info: 2020-09-11 01:23:51.8304425: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[Info: 2020-09-11 01:23:51.8555490: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 4096x4096x0 minecraft:textures/atlas/paintings.png-atlas
+[Info: 2020-09-11 01:23:51.9002426: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[Info: 2020-09-11 01:23:56.9813084: GameCallbacks.cpp(163)] Game/dse (Render thread) Error Invalid icon for world Owen's World
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829)
+	at dse$a.g(SourceFile:422)
+	at dse$a.<init>(SourceFile:189)
+	at dse.a(SourceFile:108)
+	at dse.<init>(SourceFile:83)
+	at dsb.b(SourceFile:48)
+	at doq.b(SourceFile:325)
+	at djw.a(SourceFile:897)
+	at dov.d(SourceFile:141)
+	at dov$$Lambda$2722/1099218157.onPress(Unknown Source)
+	at dlg.b(SourceFile:33)
+	at dla.a(SourceFile:16)
+	at dle.a(SourceFile:149)
+	at dme.a(SourceFile:27)
+	at dov.a(SourceFile:296)
+	at djx.b(SourceFile:92)
+	at djx$$Lambda$3039/862562079.run(Unknown Source)
+	at doq.a(SourceFile:435)
+	at djx.a(SourceFile:92)
+	at djx.c(SourceFile:162)
+	at djx$$Lambda$3038/1017226907.run(Unknown Source)
+	at any.execute(SourceFile:94)
+	at djx.b(SourceFile:162)
+	at djx$$Lambda$2386/1310708555.invoke(Unknown Source)
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36)
+	at org.lwjgl.system.JNI.invokeV(Native Method)
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174)
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(SourceFile:127)
+	at djw.e(SourceFile:1046)
+	at djw.e(SourceFile:656)
+	at net.minecraft.client.main.Main.main(SourceFile:215)
+
+[Info: 2020-09-11 01:24:26.5116585: GameCallbacks.cpp(163)] Game/dse (Render thread) Error Invalid icon for world Owen's World
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829)
+	at dse$a.g(SourceFile:422)
+	at dse$a.<init>(SourceFile:189)
+	at dse.a(SourceFile:108)
+	at dse.<init>(SourceFile:83)
+	at dsb.b(SourceFile:48)
+	at doq.b(SourceFile:325)
+	at djw.a(SourceFile:897)
+	at dse$a.a(SourceFile:359)
+	at dse$a$$Lambda$3112/1939764966.accept(Unknown Source)
+	at drz.a(SourceFile:129)
+	at drz$$Lambda$3121/1956291439.onPress(Unknown Source)
+	at dlg.b(SourceFile:33)
+	at dla.a(SourceFile:16)
+	at dle.a(SourceFile:149)
+	at dme.a(SourceFile:27)
+	at djx.b(SourceFile:92)
+	at djx$$Lambda$3039/862562079.run(Unknown Source)
+	at doq.a(SourceFile:435)
+	at djx.a(SourceFile:92)
+	at djx.c(SourceFile:162)
+	at djx$$Lambda$3038/1017226907.run(Unknown Source)
+	at any.execute(SourceFile:94)
+	at djx.b(SourceFile:162)
+	at djx$$Lambda$2386/1310708555.invoke(Unknown Source)
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36)
+	at org.lwjgl.system.JNI.invokeV(Native Method)
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174)
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(SourceFile:127)
+	at djw.e(SourceFile:1046)
+	at djw.e(SourceFile:656)
+	at net.minecraft.client.main.Main.main(SourceFile:215)
+
+[Info: 2020-09-11 01:24:40.4950147: GameCallbacks.cpp(163)] Game/dse (Render thread) Error Invalid icon for world Owen's World
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829)
+	at dse$a.g(SourceFile:422)
+	at dse$a.<init>(SourceFile:189)
+	at dse.a(SourceFile:108)
+	at dse.<init>(SourceFile:83)
+	at dsb.b(SourceFile:48)
+	at doq.b(SourceFile:325)
+	at djw.a(SourceFile:897)
+	at dov.d(SourceFile:141)
+	at dov$$Lambda$2722/1099218157.onPress(Unknown Source)
+	at dlg.b(SourceFile:33)
+	at dla.a(SourceFile:16)
+	at dle.a(SourceFile:149)
+	at dme.a(SourceFile:27)
+	at dov.a(SourceFile:296)
+	at djx.b(SourceFile:92)
+	at djx$$Lambda$3039/862562079.run(Unknown Source)
+	at doq.a(SourceFile:435)
+	at djx.a(SourceFile:92)
+	at djx.c(SourceFile:162)
+	at djx$$Lambda$3038/1017226907.run(Unknown Source)
+	at any.execute(SourceFile:94)
+	at djx.b(SourceFile:162)
+	at djx$$Lambda$2386/1310708555.invoke(Unknown Source)
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36)
+	at org.lwjgl.system.JNI.invokeV(Native Method)
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174)
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(SourceFile:127)
+	at djw.e(SourceFile:1046)
+	at djw.e(SourceFile:656)
+	at net.minecraft.client.main.Main.main(SourceFile:215)
+
+[Info: 2020-09-11 01:24:44.0102152: GameCallbacks.cpp(163)] Game/dse (Render thread) Error Invalid icon for world Owen's World
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829)
+	at dse$a.g(SourceFile:422)
+	at dse$a.<init>(SourceFile:189)
+	at dse.a(SourceFile:108)
+	at dse.<init>(SourceFile:83)
+	at dsb.b(SourceFile:48)
+	at doq.b(SourceFile:325)
+	at djw.a(SourceFile:897)
+	at dov.d(SourceFile:141)
+	at dov$$Lambda$2722/1099218157.onPress(Unknown Source)
+	at dlg.b(SourceFile:33)
+	at dla.a(SourceFile:16)
+	at dle.a(SourceFile:149)
+	at dme.a(SourceFile:27)
+	at dov.a(SourceFile:296)
+	at djx.b(SourceFile:92)
+	at djx$$Lambda$3039/862562079.run(Unknown Source)
+	at doq.a(SourceFile:435)
+	at djx.a(SourceFile:92)
+	at djx.c(SourceFile:162)
+	at djx$$Lambda$3038/1017226907.run(Unknown Source)
+	at any.execute(SourceFile:94)
+	at djx.b(SourceFile:162)
+	at djx$$Lambda$2386/1310708555.invoke(Unknown Source)
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36)
+	at org.lwjgl.system.JNI.invokeV(Native Method)
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174)
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(SourceFile:127)
+	at djw.e(SourceFile:1046)
+	at djw.e(SourceFile:656)
+	at net.minecraft.client.main.Main.main(SourceFile:215)
+
+[Info: 2020-09-11 01:24:50.5166072: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:24:50.5171922: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:24:50.5177079: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:24:50.5182183: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:24:50.5187533: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:24:50.5200229: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, skyblockDatapack, Recycle Crafting, Uncraftable Ice.zip, anti creeper grief v1.0.2.zip, anti ghast grief v1.0.0.zip, crafting.zip, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, silence mobs v1.0.0.zip, food-preview-datapack.zip, Infinite Trades (1.14)
+[Info: 2020-09-11 01:24:51.1246143: GameCallbacks.cpp(163)] Game/boo (Render thread) Info Loaded 7 recipes
+[Info: 2020-09-11 01:24:51.1248343: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Datapack tried to redefine minecraft:empty loot table, ignoring
+[Info: 2020-09-11 01:24:51.2261485: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[Info: 2020-09-11 01:24:51.2262944: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[Info: 2020-09-11 01:24:51.2929616: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 1087 advancements
+[Info: 2020-09-11 01:24:57.4811517: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:24:57.4832555: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:24:57.4845047: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:24:57.4857610: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:24:57.4869681: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:24:57.4875606: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, skyblockDatapack, Recycle Crafting, Uncraftable Ice.zip, anti creeper grief v1.0.2.zip, anti ghast grief v1.0.0.zip, crafting.zip, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, silence mobs v1.0.0.zip, food-preview-datapack.zip, Infinite Trades (1.14)
+[Info: 2020-09-11 01:24:58.0646642: GameCallbacks.cpp(163)] Game/boo (Render thread) Info Loaded 7 recipes
+[Info: 2020-09-11 01:24:58.0648218: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Datapack tried to redefine minecraft:empty loot table, ignoring
+[Info: 2020-09-11 01:24:58.0927081: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[Info: 2020-09-11 01:24:58.0927784: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[Info: 2020-09-11 01:24:58.1150947: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 1087 advancements
+[Info: 2020-09-11 01:24:58.6416446: GameCallbacks.cpp(163)] Game/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService (Render thread) Info Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[Info: 2020-09-11 01:24:58.6584444: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Starting integrated minecraft server version 1.16.3
+[Info: 2020-09-11 01:24:58.6586087: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Generating keypair
+[Info: 2020-09-11 01:24:58.8119638: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Preparing start region for dimension minecraft:overworld
+[Info: 2020-09-11 01:24:59.3375237: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 0%
+[Info: 2020-09-11 01:24:59.3377315: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 0%
+[Info: 2020-09-11 01:24:59.6281113: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Time elapsed: 791 ms
+[Info: 2020-09-11 01:24:59.8902512: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Changing view distance to 11, from 10
+[Info: 2020-09-11 01:25:01.3876855: GameCallbacks.cpp(163)] Game/acs (Server thread) Info odoggy21[local:E:c25df053] logged in with entity id 144 at (6.345963631018112, 70.0, 4.963567921746296)
+[Info: 2020-09-11 01:25:01.4099209: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 joined the game
+[Info: 2020-09-11 01:25:01.4799146: GameCallbacks.cpp(163)] Game/ejz (Netty Local Client IO #0) Info Applying server pack C:\Users\owenm\AppData\Roaming\.minecraft\saves\Skyblock\resources.zip
+[Info: 2020-09-11 01:25:02.0729007: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:25:02.1032353: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:25:02.1955894: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, Owen's Resource Pack, Redstone Lines, food-preview-ressources-pack.zip, resources.zip
+[Info: 2020-09-11 01:25:02.2082468: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 337 advancements
+[Info: 2020-09-11 01:25:02.3717661: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:25:02.3744524: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:25:04.3379212: GameCallbacks.cpp(163)] Game/elk (Worker-Main-15) Warn Exception loading blockstate definition: 'minecraft:blockstates/kelp.json' in resourcepack: 'Owen's Resource Pack' for variant: 'normal': Unknown blockstate property: 'normal'
+[Info: 2020-09-11 01:25:05.7623312: GameCallbacks.cpp(163)] Game/elk (Worker-Main-15) Warn Unable to resolve texture reference: #missing in minecraft:block/lever_on
+[Info: 2020-09-11 01:25:05.7626389: GameCallbacks.cpp(163)] Game/elk (Worker-Main-15) Warn Unable to resolve texture reference: #missing in minecraft:block/lever
+[Info: 2020-09-11 01:25:05.7627708: GameCallbacks.cpp(163)] Game/elk (Worker-Main-15) Warn Unable to resolve texture reference: #missing in minecraft:item/lever
+[Info: 2020-09-11 01:25:05.8711081: GameCallbacks.cpp(163)] Game/ejt (Worker-Main-21) Error Using missing texture, unable to load minecraft:textures/block/stone_slab_top.png : java.io.FileNotFoundException: minecraft:textures/block/stone_slab_top.png
+[Info: 2020-09-11 01:25:06.3300655: GameCallbacks.cpp(163)] Game/dds (Render thread) Info OpenAL initialized.
+[Info: 2020-09-11 01:25:06.3302786: GameCallbacks.cpp(163)] Game/enj (Render thread) Info Sound engine started
+[Info: 2020-09-11 01:25:06.5718777: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[Info: 2020-09-11 01:25:06.5788267: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[Info: 2020-09-11 01:25:06.5791055: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[Info: 2020-09-11 01:25:06.5803451: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[Info: 2020-09-11 01:25:06.5817147: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[Info: 2020-09-11 01:25:06.5822700: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[Info: 2020-09-11 01:25:06.5831736: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[Info: 2020-09-11 01:25:06.7884067: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[Info: 2020-09-11 01:25:06.7888950: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 4096x4096x0 minecraft:textures/atlas/paintings.png-atlas
+[Info: 2020-09-11 01:25:06.8004091: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[Info: 2020-09-11 01:25:17.7129292: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:25:17.7372588: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:25:17.7590257: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:25:17.7983956: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:25:18.3563377: GameCallbacks.cpp(163)] Game/aay (Server thread) Info odoggy21 lost connection: Disconnected
+[Info: 2020-09-11 01:25:18.3565981: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 left the game
+[Info: 2020-09-11 01:25:18.3763983: GameCallbacks.cpp(163)] Game/aay (Server thread) Info Stopping singleplayer server as player logged out
+[Info: 2020-09-11 01:25:18.3992667: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Stopping server
+[Info: 2020-09-11 01:25:18.3996490: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving players
+[Info: 2020-09-11 01:25:18.3997645: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving worlds
+[Info: 2020-09-11 01:25:18.3998938: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:25:18.4483857: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (Skyblock): All chunks are saved
+[Info: 2020-09-11 01:25:18.4485870: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:25:18.4682177: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-09-11 01:25:18.4683902: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:25:18.4686499: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-09-11 01:25:18.4764078: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (Skyblock): All chunks are saved
+[Info: 2020-09-11 01:25:18.4864230: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-09-11 01:25:18.4940647: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-09-11 01:25:18.5014800: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, Owen's Resource Pack, Redstone Lines, food-preview-ressources-pack.zip
+[Info: 2020-09-11 01:25:19.2732847: GameCallbacks.cpp(163)] Game/elk (Worker-Main-23) Warn Exception loading blockstate definition: 'minecraft:blockstates/kelp.json' in resourcepack: 'Owen's Resource Pack' for variant: 'normal': Unknown blockstate property: 'normal'
+[Info: 2020-09-11 01:25:19.8975078: GameCallbacks.cpp(163)] Game/elk (Worker-Main-23) Warn Unable to resolve texture reference: #missing in minecraft:block/lever_on
+[Info: 2020-09-11 01:25:19.8975762: GameCallbacks.cpp(163)] Game/elk (Worker-Main-23) Warn Unable to resolve texture reference: #missing in minecraft:block/lever
+[Info: 2020-09-11 01:25:19.8976700: GameCallbacks.cpp(163)] Game/elk (Worker-Main-23) Warn Unable to resolve texture reference: #missing in minecraft:item/lever
+[Info: 2020-09-11 01:25:19.9569256: GameCallbacks.cpp(163)] Game/ejt (Worker-Main-17) Error Using missing texture, unable to load minecraft:textures/block/stone_slab_top.png : java.io.FileNotFoundException: minecraft:textures/block/stone_slab_top.png
+[Info: 2020-09-11 01:25:20.3109602: GameCallbacks.cpp(163)] Game/dds (Render thread) Info OpenAL initialized.
+[Info: 2020-09-11 01:25:20.3111279: GameCallbacks.cpp(163)] Game/enj (Render thread) Info Sound engine started
+[Info: 2020-09-11 01:25:20.5586842: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[Info: 2020-09-11 01:25:20.5685378: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[Info: 2020-09-11 01:25:20.5691099: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[Info: 2020-09-11 01:25:20.5712256: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[Info: 2020-09-11 01:25:20.5730792: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[Info: 2020-09-11 01:25:20.5737258: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[Info: 2020-09-11 01:25:20.5743488: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[Info: 2020-09-11 01:25:20.7764395: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[Info: 2020-09-11 01:25:20.7770886: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 4096x4096x0 minecraft:textures/atlas/paintings.png-atlas
+[Info: 2020-09-11 01:25:20.7974638: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[Info: 2020-09-11 01:25:23.4796850: GameCallbacks.cpp(163)] Game/dse (Render thread) Error Invalid icon for world Owen's World
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829)
+	at dse$a.g(SourceFile:422)
+	at dse$a.<init>(SourceFile:189)
+	at dse.a(SourceFile:108)
+	at dse.<init>(SourceFile:83)
+	at dsb.b(SourceFile:48)
+	at doq.b(SourceFile:325)
+	at djw.a(SourceFile:897)
+	at dov.d(SourceFile:141)
+	at dov$$Lambda$2722/1099218157.onPress(Unknown Source)
+	at dlg.b(SourceFile:33)
+	at dla.a(SourceFile:16)
+	at dle.a(SourceFile:149)
+	at dme.a(SourceFile:27)
+	at dov.a(SourceFile:296)
+	at djx.b(SourceFile:92)
+	at djx$$Lambda$3039/862562079.run(Unknown Source)
+	at doq.a(SourceFile:435)
+	at djx.a(SourceFile:92)
+	at djx.c(SourceFile:162)
+	at djx$$Lambda$3038/1017226907.run(Unknown Source)
+	at any.execute(SourceFile:94)
+	at djx.b(SourceFile:162)
+	at djx$$Lambda$2386/1310708555.invoke(Unknown Source)
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36)
+	at org.lwjgl.system.JNI.invokeV(Native Method)
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174)
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(SourceFile:127)
+	at djw.e(SourceFile:1046)
+	at djw.e(SourceFile:656)
+	at net.minecraft.client.main.Main.main(SourceFile:215)
+
+[Info: 2020-09-11 01:25:35.0158822: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:25:35.0168937: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:25:35.0174027: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:25:35.0179820: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:25:35.0184821: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:25:35.0186697: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, skyblockDatapack, Recycle Crafting, Uncraftable Ice.zip, anti creeper grief v1.0.2.zip, anti ghast grief v1.0.0.zip, crafting.zip, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, silence mobs v1.0.0.zip, food-preview-datapack.zip, Infinite Trades (1.14)
+[Info: 2020-09-11 01:25:35.6751378: GameCallbacks.cpp(163)] Game/boo (Render thread) Info Loaded 7 recipes
+[Info: 2020-09-11 01:25:35.6753360: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Datapack tried to redefine minecraft:empty loot table, ignoring
+[Info: 2020-09-11 01:25:35.6969873: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[Info: 2020-09-11 01:25:35.6970844: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[Info: 2020-09-11 01:25:35.7145528: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 1087 advancements
+[Info: 2020-09-11 01:25:43.8586149: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:25:43.8593182: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:25:43.8600202: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:25:43.8606075: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:25:43.8611310: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:25:43.8613176: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, skyblockDatapack, Recycle Crafting, Uncraftable Ice.zip, anti creeper grief v1.0.2.zip, anti ghast grief v1.0.0.zip, crafting.zip, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, silence mobs v1.0.0.zip, food-preview-datapack.zip, Infinite Trades (1.14)
+[Info: 2020-09-11 01:25:44.4584753: GameCallbacks.cpp(163)] Game/boo (Render thread) Info Loaded 7 recipes
+[Info: 2020-09-11 01:25:44.4586059: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Datapack tried to redefine minecraft:empty loot table, ignoring
+[Info: 2020-09-11 01:25:44.4995196: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[Info: 2020-09-11 01:25:44.4997973: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[Info: 2020-09-11 01:25:44.5126988: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 1087 advancements
+[Info: 2020-09-11 01:25:44.8183048: GameCallbacks.cpp(163)] Game/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService (Render thread) Info Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[Info: 2020-09-11 01:25:44.8202647: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Starting integrated minecraft server version 1.16.3
+[Info: 2020-09-11 01:25:44.8203452: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Generating keypair
+[Info: 2020-09-11 01:25:44.8708690: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Preparing start region for dimension minecraft:overworld
+[Info: 2020-09-11 01:25:45.1453808: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 0%
+[Info: 2020-09-11 01:25:45.2562049: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Time elapsed: 367 ms
+[Info: 2020-09-11 01:25:45.3064796: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Changing view distance to 11, from 10
+[Info: 2020-09-11 01:25:45.4212517: GameCallbacks.cpp(163)] Game/acs (Server thread) Info odoggy21[local:E:d6812fbf] logged in with entity id 376 at (-16.293587911016353, 69.5, 17.44443469448037)
+[Info: 2020-09-11 01:25:45.4254335: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 joined the game
+[Info: 2020-09-11 01:25:45.4353025: GameCallbacks.cpp(163)] Game/ejz (Netty Local Client IO #1) Info Applying server pack C:\Users\owenm\AppData\Roaming\.minecraft\saves\Skyblock\resources.zip
+[Info: 2020-09-11 01:25:45.6104554: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:25:45.6239421: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:25:45.6402685: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, Owen's Resource Pack, Redstone Lines, food-preview-ressources-pack.zip, resources.zip
+[Info: 2020-09-11 01:25:45.6444827: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 337 advancements
+[Info: 2020-09-11 01:25:45.6719654: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:25:45.6742376: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:25:46.9707225: GameCallbacks.cpp(163)] Game/elk (Worker-Main-33) Warn Exception loading blockstate definition: 'minecraft:blockstates/kelp.json' in resourcepack: 'Owen's Resource Pack' for variant: 'normal': Unknown blockstate property: 'normal'
+[Info: 2020-09-11 01:25:47.9794722: GameCallbacks.cpp(163)] Game/elk (Worker-Main-33) Warn Unable to resolve texture reference: #missing in minecraft:block/lever_on
+[Info: 2020-09-11 01:25:47.9795603: GameCallbacks.cpp(163)] Game/elk (Worker-Main-33) Warn Unable to resolve texture reference: #missing in minecraft:block/lever
+[Info: 2020-09-11 01:25:47.9796796: GameCallbacks.cpp(163)] Game/elk (Worker-Main-33) Warn Unable to resolve texture reference: #missing in minecraft:item/lever
+[Info: 2020-09-11 01:25:48.0997482: GameCallbacks.cpp(163)] Game/ejt (Worker-Main-19) Error Using missing texture, unable to load minecraft:textures/block/stone_slab_top.png : java.io.FileNotFoundException: minecraft:textures/block/stone_slab_top.png
+[Info: 2020-09-11 01:25:48.5699806: GameCallbacks.cpp(163)] Game/dds (Render thread) Info OpenAL initialized.
+[Info: 2020-09-11 01:25:48.5702573: GameCallbacks.cpp(163)] Game/enj (Render thread) Info Sound engine started
+[Info: 2020-09-11 01:25:48.9115355: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[Info: 2020-09-11 01:25:48.9230378: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[Info: 2020-09-11 01:25:48.9237957: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[Info: 2020-09-11 01:25:48.9255899: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[Info: 2020-09-11 01:25:48.9273559: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[Info: 2020-09-11 01:25:48.9278887: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[Info: 2020-09-11 01:25:48.9286494: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[Info: 2020-09-11 01:25:49.1220868: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[Info: 2020-09-11 01:25:49.1225889: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 4096x4096x0 minecraft:textures/atlas/paintings.png-atlas
+[Info: 2020-09-11 01:25:49.1448582: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[Info: 2020-09-11 01:25:58.6291682: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 fell out of the world
+[Info: 2020-09-11 01:25:58.6331543: GameCallbacks.cpp(163)] Game/dlh (Render thread) Info [CHAT] odoggy21 fell out of the world
+[Info: 2020-09-11 01:25:59.6260718: GameCallbacks.cpp(163)] Game/any (Server thread) Fatal Error executing task on Server
+java.lang.NullPointerException
+	at zy.b(SourceFile:202)
+	at zs.a(SourceFile:939)
+	at aae.a(SourceFile:467)
+	at aay.a(SourceFile:863)
+	at st.a(SourceFile:122)
+	at st$a.a(SourceFile:56)
+	at ol.a(SourceFile:21)
+	at ol$$Lambda$4895/29771425.run(Unknown Source)
+	at wb.run(SourceFile:18)
+	at any.c(SourceFile:144)
+	at aoc.c(SourceFile:23)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:758)
+	at net.minecraft.server.MinecraftServer.c(SourceFile:152)
+	at any.y(SourceFile:118)
+	at net.minecraft.server.MinecraftServer.ba(SourceFile:740)
+	at net.minecraft.server.MinecraftServer.y(SourceFile:734)
+	at any.bk(SourceFile:103)
+	at net.minecraft.server.MinecraftServer.x(SourceFile:718)
+	at net.minecraft.server.MinecraftServer.w(SourceFile:671)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:254)
+	at net.minecraft.server.MinecraftServer$$Lambda$4188/579058644.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:745)
+
+[Info: 2020-09-11 01:28:41.1511325: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:28:41.1741847: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:28:41.1974933: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:28:41.2706746: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:31:44.4009616: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:31:44.4205291: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:31:44.4365775: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:31:44.4529420: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:32:36.8009581: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:32:36.8361129: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:32:36.8445106: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:32:36.8577647: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:34:55.4507889: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:34:55.4632320: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:34:55.4712581: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:34:55.4869752: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:37:40.9003125: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:37:40.9104767: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:37:40.9189991: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:37:40.9307549: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:40:04.3470926: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:40:04.3659099: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:40:04.3830080: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:40:04.4580163: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:40:09.1252036: GameCallbacks.cpp(163)] Game/dlh (Render thread) Info [CHAT] Respawn point set
+[Info: 2020-09-11 01:41:52.6793447: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 01:42:44.0733905: GameCallbacks.cpp(163)] Game/dlh (Render thread) Info [CHAT] Respawn point set
+[Info: 2020-09-11 01:43:33.4503921: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:43:33.4734282: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:43:33.4934845: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:43:33.5394293: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:45:01.5005160: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:45:01.5696068: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:45:01.5815256: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:45:01.5885957: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:45:51.5505450: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:45:51.5653407: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:45:51.5755517: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:45:51.5825999: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:46:37.0818505: GameCallbacks.cpp(163)] Game/dlh (Render thread) Info [CHAT] [Debug]: Hitboxes: shown
+[Info: 2020-09-11 01:46:37.8497124: GameCallbacks.cpp(163)] Game/dlh (Render thread) Info [CHAT] [Debug]: Hitboxes: hidden
+[Info: 2020-09-11 01:46:42.0506878: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:46:42.0652890: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:46:42.0772811: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:46:42.0847952: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:47:37.3008660: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:47:37.3124801: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:47:37.3198046: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:47:37.3256189: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:47:37.7691079: GameCallbacks.cpp(163)] Game/aay (Server thread) Info odoggy21 lost connection: Disconnected
+[Info: 2020-09-11 01:47:37.7692853: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 left the game
+[Info: 2020-09-11 01:47:37.7782912: GameCallbacks.cpp(163)] Game/aay (Server thread) Info Stopping singleplayer server as player logged out
+[Info: 2020-09-11 01:47:37.8103074: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Stopping server
+[Info: 2020-09-11 01:47:37.8105985: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving players
+[Info: 2020-09-11 01:47:37.8106449: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving worlds
+[Info: 2020-09-11 01:47:37.8106793: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:47:37.8389542: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (Skyblock): All chunks are saved
+[Info: 2020-09-11 01:47:37.8390208: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:47:38.0666659: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-09-11 01:47:38.0668167: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:47:38.0670286: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-09-11 01:47:38.0744172: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (Skyblock): All chunks are saved
+[Info: 2020-09-11 01:47:38.0834288: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-09-11 01:47:38.0899916: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-09-11 01:47:38.0971608: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, Owen's Resource Pack, Redstone Lines, food-preview-ressources-pack.zip
+[Info: 2020-09-11 01:47:38.8864313: GameCallbacks.cpp(163)] Game/elk (Worker-Main-61) Warn Exception loading blockstate definition: 'minecraft:blockstates/kelp.json' in resourcepack: 'Owen's Resource Pack' for variant: 'normal': Unknown blockstate property: 'normal'
+[Info: 2020-09-11 01:47:39.5231608: GameCallbacks.cpp(163)] Game/elk (Worker-Main-61) Warn Unable to resolve texture reference: #missing in minecraft:block/lever_on
+[Info: 2020-09-11 01:47:39.5232250: GameCallbacks.cpp(163)] Game/elk (Worker-Main-61) Warn Unable to resolve texture reference: #missing in minecraft:block/lever
+[Info: 2020-09-11 01:47:39.5232762: GameCallbacks.cpp(163)] Game/elk (Worker-Main-61) Warn Unable to resolve texture reference: #missing in minecraft:item/lever
+[Info: 2020-09-11 01:47:39.5820907: GameCallbacks.cpp(163)] Game/ejt (Worker-Main-76) Error Using missing texture, unable to load minecraft:textures/block/stone_slab_top.png : java.io.FileNotFoundException: minecraft:textures/block/stone_slab_top.png
+[Info: 2020-09-11 01:47:40.0263752: GameCallbacks.cpp(163)] Game/dds (Render thread) Info OpenAL initialized.
+[Info: 2020-09-11 01:47:40.0264717: GameCallbacks.cpp(163)] Game/enj (Render thread) Info Sound engine started
+[Info: 2020-09-11 01:47:40.2625879: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[Info: 2020-09-11 01:47:40.2688448: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[Info: 2020-09-11 01:47:40.2691891: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[Info: 2020-09-11 01:47:40.2704073: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[Info: 2020-09-11 01:47:40.2970595: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[Info: 2020-09-11 01:47:40.2974319: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[Info: 2020-09-11 01:47:40.2981297: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[Info: 2020-09-11 01:47:40.4811602: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[Info: 2020-09-11 01:47:40.4821168: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 4096x4096x0 minecraft:textures/atlas/paintings.png-atlas
+[Info: 2020-09-11 01:47:40.4928050: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[Info: 2020-09-11 01:47:42.5661126: GameCallbacks.cpp(163)] Game/dse (Render thread) Error Invalid icon for world Owen's World
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829)
+	at dse$a.g(SourceFile:422)
+	at dse$a.<init>(SourceFile:189)
+	at dse.a(SourceFile:108)
+	at dse.<init>(SourceFile:83)
+	at dsb.b(SourceFile:48)
+	at doq.b(SourceFile:325)
+	at djw.a(SourceFile:897)
+	at dov.d(SourceFile:141)
+	at dov$$Lambda$2722/1099218157.onPress(Unknown Source)
+	at dlg.b(SourceFile:33)
+	at dla.a(SourceFile:16)
+	at dle.a(SourceFile:149)
+	at dme.a(SourceFile:27)
+	at dov.a(SourceFile:296)
+	at djx.b(SourceFile:92)
+	at djx$$Lambda$3039/862562079.run(Unknown Source)
+	at doq.a(SourceFile:435)
+	at djx.a(SourceFile:92)
+	at djx.c(SourceFile:162)
+	at djx$$Lambda$3038/1017226907.run(Unknown Source)
+	at any.execute(SourceFile:94)
+	at djx.b(SourceFile:162)
+	at djx$$Lambda$2386/1310708555.invoke(Unknown Source)
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36)
+	at org.lwjgl.system.JNI.invokeV(Native Method)
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174)
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(SourceFile:127)
+	at djw.e(SourceFile:1046)
+	at djw.e(SourceFile:656)
+	at net.minecraft.client.main.Main.main(SourceFile:215)
+
+[Info: 2020-09-11 01:47:44.8708193: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:47:44.8722518: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:47:44.8733684: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:47:44.8741995: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:47:44.8747838: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:47:44.8749724: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default
+[Info: 2020-09-11 01:47:45.1290992: GameCallbacks.cpp(163)] Game/boo (Render thread) Info Loaded 7 recipes
+[Info: 2020-09-11 01:47:45.1677678: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 927 advancements
+[Info: 2020-09-11 01:47:45.5002909: GameCallbacks.cpp(163)] Game/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService (Render thread) Info Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[Info: 2020-09-11 01:47:45.5021190: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Starting integrated minecraft server version 1.16.3
+[Info: 2020-09-11 01:47:45.5021648: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Generating keypair
+[Info: 2020-09-11 01:47:45.5398309: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Preparing start region for dimension minecraft:overworld
+[Info: 2020-09-11 01:47:46.1092578: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 0%
+[Info: 2020-09-11 01:47:46.1093490: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 0%
+[Info: 2020-09-11 01:47:47.0403539: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 0%
+[Info: 2020-09-11 01:47:47.1261595: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 0%
+[Info: 2020-09-11 01:47:48.8260556: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 83%
+[Info: 2020-09-11 01:47:48.8261975: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 83%
+[Info: 2020-09-11 01:47:48.8262982: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 83%
+[Info: 2020-09-11 01:47:49.0734695: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 95%
+[Info: 2020-09-11 01:47:49.5642089: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 96%
+[Info: 2020-09-11 01:47:49.8722726: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Time elapsed: 4316 ms
+[Info: 2020-09-11 01:47:49.9316785: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Changing view distance to 11, from 10
+[Info: 2020-09-11 01:47:49.9856492: GameCallbacks.cpp(163)] Game/acs (Server thread) Info odoggy21[local:E:6e4add70] logged in with entity id 5777 at (-301.5574891764251, 121.0, 198.47438936812895)
+[Info: 2020-09-11 01:47:49.9964466: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 joined the game
+[Info: 2020-09-11 01:47:50.1815138: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:47:50.1835878: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 107 advancements
+[Info: 2020-09-11 01:47:50.2089987: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:overworld
+[Info: 2020-09-11 01:47:50.6566493: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:the_nether
+[Info: 2020-09-11 01:47:50.6573941: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:the_end
+[Info: 2020-09-11 01:47:54.9706376: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info [odoggy21: Set own game mode to Spectator Mode]
+[Info: 2020-09-11 01:47:54.9717192: GameCallbacks.cpp(163)] Game/dlh (Render thread) Info [CHAT] Set own game mode to Spectator Mode
+[Info: 2020-09-11 01:48:02.0382916: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info [odoggy21: Set own game mode to Creative Mode]
+[Info: 2020-09-11 01:48:02.0394438: GameCallbacks.cpp(163)] Game/dlh (Render thread) Info [CHAT] Set own game mode to Creative Mode
+[Info: 2020-09-11 01:48:31.6028264: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:48:31.6123133: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:overworld
+[Info: 2020-09-11 01:48:31.6884156: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:the_nether
+[Info: 2020-09-11 01:48:32.0422065: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:the_end
+[Info: 2020-09-11 01:48:32.1097419: GameCallbacks.cpp(163)] Game/aay (Server thread) Info odoggy21 lost connection: Disconnected
+[Info: 2020-09-11 01:48:32.1098555: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 left the game
+[Info: 2020-09-11 01:48:32.1177003: GameCallbacks.cpp(163)] Game/aay (Server thread) Info Stopping singleplayer server as player logged out
+[Info: 2020-09-11 01:48:32.1538688: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Stopping server
+[Info: 2020-09-11 01:48:32.1541530: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving players
+[Info: 2020-09-11 01:48:32.1542017: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving worlds
+[Info: 2020-09-11 01:48:32.1542484: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:overworld
+[Info: 2020-09-11 01:48:32.3322959: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (Magma Cream Only Farm WDL): All chunks are saved
+[Info: 2020-09-11 01:48:32.3324238: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:the_nether
+[Info: 2020-09-11 01:48:33.4098560: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-09-11 01:48:33.4099519: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:the_end
+[Info: 2020-09-11 01:48:33.4103903: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-09-11 01:48:33.4204589: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (Magma Cream Only Farm WDL): All chunks are saved
+[Info: 2020-09-11 01:48:33.4267862: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-09-11 01:48:33.4316531: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-09-11 01:48:34.7312000: GameCallbacks.cpp(163)] Game/dse (Render thread) Error Invalid icon for world Owen's World
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829)
+	at dse$a.g(SourceFile:422)
+	at dse$a.<init>(SourceFile:189)
+	at dse.a(SourceFile:108)
+	at dse.<init>(SourceFile:83)
+	at dsb.b(SourceFile:48)
+	at doq.b(SourceFile:325)
+	at djw.a(SourceFile:897)
+	at dov.d(SourceFile:141)
+	at dov$$Lambda$2722/1099218157.onPress(Unknown Source)
+	at dlg.b(SourceFile:33)
+	at dla.a(SourceFile:16)
+	at dle.a(SourceFile:149)
+	at dme.a(SourceFile:27)
+	at dov.a(SourceFile:296)
+	at djx.b(SourceFile:92)
+	at djx$$Lambda$3039/862562079.run(Unknown Source)
+	at doq.a(SourceFile:435)
+	at djx.a(SourceFile:92)
+	at djx.c(SourceFile:162)
+	at djx$$Lambda$3038/1017226907.run(Unknown Source)
+	at any.execute(SourceFile:94)
+	at djx.b(SourceFile:162)
+	at djx$$Lambda$2386/1310708555.invoke(Unknown Source)
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36)
+	at org.lwjgl.system.JNI.invokeV(Native Method)
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174)
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(SourceFile:127)
+	at djw.e(SourceFile:1046)
+	at djw.e(SourceFile:656)
+	at net.minecraft.client.main.Main.main(SourceFile:215)
+
+[Info: 2020-09-11 01:48:35.6499898: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:48:35.6504471: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:48:35.6508716: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:48:35.6513103: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:48:35.6518840: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:48:35.6520789: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, skyblockDatapack, Recycle Crafting, Uncraftable Ice.zip, anti creeper grief v1.0.2.zip, anti ghast grief v1.0.0.zip, crafting.zip, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, silence mobs v1.0.0.zip, food-preview-datapack.zip, Infinite Trades (1.14)
+[Info: 2020-09-11 01:48:36.2367093: GameCallbacks.cpp(163)] Game/boo (Render thread) Info Loaded 7 recipes
+[Info: 2020-09-11 01:48:36.2368480: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Datapack tried to redefine minecraft:empty loot table, ignoring
+[Info: 2020-09-11 01:48:36.2566093: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[Info: 2020-09-11 01:48:36.2566838: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[Info: 2020-09-11 01:48:36.2667488: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 1087 advancements
+[Info: 2020-09-11 01:48:37.3148563: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:48:37.3154497: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:48:37.3299639: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:48:37.3306357: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:48:37.3313915: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:48:37.3315959: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, skyblockDatapack, Recycle Crafting, Uncraftable Ice.zip, anti creeper grief v1.0.2.zip, anti ghast grief v1.0.0.zip, crafting.zip, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, silence mobs v1.0.0.zip, food-preview-datapack.zip, Infinite Trades (1.14)
+[Info: 2020-09-11 01:48:37.9114584: GameCallbacks.cpp(163)] Game/boo (Render thread) Info Loaded 7 recipes
+[Info: 2020-09-11 01:48:37.9115172: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Datapack tried to redefine minecraft:empty loot table, ignoring
+[Info: 2020-09-11 01:48:37.9300192: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[Info: 2020-09-11 01:48:37.9301854: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[Info: 2020-09-11 01:48:37.9399671: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 1087 advancements
+[Info: 2020-09-11 01:48:38.2395764: GameCallbacks.cpp(163)] Game/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService (Render thread) Info Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[Info: 2020-09-11 01:48:38.2413377: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Starting integrated minecraft server version 1.16.3
+[Info: 2020-09-11 01:48:38.2414357: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Generating keypair
+[Info: 2020-09-11 01:48:38.3165014: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Preparing start region for dimension minecraft:overworld
+[Info: 2020-09-11 01:48:38.4735689: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 0%
+[Info: 2020-09-11 01:48:38.5356049: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Time elapsed: 202 ms
+[Info: 2020-09-11 01:48:38.5580864: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Changing view distance to 11, from 10
+[Info: 2020-09-11 01:48:38.6720254: GameCallbacks.cpp(163)] Game/acs (Server thread) Info odoggy21[local:E:520b5fb9] logged in with entity id 6250 at (-594.7920683845218, 40.0, -268.8865846775707)
+[Info: 2020-09-11 01:48:38.6733162: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 joined the game
+[Info: 2020-09-11 01:48:38.6846004: GameCallbacks.cpp(163)] Game/ejz (Netty Local Client IO #3) Info Applying server pack C:\Users\owenm\AppData\Roaming\.minecraft\saves\Skyblock\resources.zip
+[Info: 2020-09-11 01:48:38.8650061: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, Owen's Resource Pack, Redstone Lines, food-preview-ressources-pack.zip, resources.zip
+[Info: 2020-09-11 01:48:38.8691383: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 337 advancements
+[Info: 2020-09-11 01:48:38.9070466: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:48:38.9241692: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:48:38.9732791: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:48:38.9742809: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:48:39.6953609: GameCallbacks.cpp(163)] Game/elk (Worker-Main-87) Warn Exception loading blockstate definition: 'minecraft:blockstates/kelp.json' in resourcepack: 'Owen's Resource Pack' for variant: 'normal': Unknown blockstate property: 'normal'
+[Info: 2020-09-11 01:48:40.4105084: GameCallbacks.cpp(163)] Game/elk (Worker-Main-87) Warn Unable to resolve texture reference: #missing in minecraft:block/lever_on
+[Info: 2020-09-11 01:48:40.4105830: GameCallbacks.cpp(163)] Game/elk (Worker-Main-87) Warn Unable to resolve texture reference: #missing in minecraft:block/lever
+[Info: 2020-09-11 01:48:40.4106915: GameCallbacks.cpp(163)] Game/elk (Worker-Main-87) Warn Unable to resolve texture reference: #missing in minecraft:item/lever
+[Info: 2020-09-11 01:48:40.4726138: GameCallbacks.cpp(163)] Game/ejt (Worker-Main-81) Error Using missing texture, unable to load minecraft:textures/block/stone_slab_top.png : java.io.FileNotFoundException: minecraft:textures/block/stone_slab_top.png
+[Info: 2020-09-11 01:48:40.8445433: GameCallbacks.cpp(163)] Game/dds (Render thread) Info OpenAL initialized.
+[Info: 2020-09-11 01:48:40.8446140: GameCallbacks.cpp(163)] Game/enj (Render thread) Info Sound engine started
+[Info: 2020-09-11 01:48:41.1278884: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[Info: 2020-09-11 01:48:41.1372277: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[Info: 2020-09-11 01:48:41.1376380: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[Info: 2020-09-11 01:48:41.1393896: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[Info: 2020-09-11 01:48:41.1412343: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[Info: 2020-09-11 01:48:41.1417027: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[Info: 2020-09-11 01:48:41.1424677: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[Info: 2020-09-11 01:48:41.4436827: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[Info: 2020-09-11 01:48:41.4442924: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 4096x4096x0 minecraft:textures/atlas/paintings.png-atlas
+[Info: 2020-09-11 01:48:41.4540598: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[Info: 2020-09-11 01:49:06.3951918: GameCallbacks.cpp(163)] Game/dlh (Render thread) Info [CHAT] [Debug]: Hitboxes: shown
+[Info: 2020-09-11 01:54:27.3822290: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:54:27.3906758: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:54:27.3984320: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:54:27.4045870: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:55:50.3825443: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:55:50.3922664: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:55:50.3996238: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:55:50.4058969: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:55:50.8996979: GameCallbacks.cpp(163)] Game/aay (Server thread) Info odoggy21 lost connection: Disconnected
+[Info: 2020-09-11 01:55:50.8997596: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 left the game
+[Info: 2020-09-11 01:55:50.9110055: GameCallbacks.cpp(163)] Game/aay (Server thread) Info Stopping singleplayer server as player logged out
+[Info: 2020-09-11 01:55:50.9389571: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Stopping server
+[Info: 2020-09-11 01:55:50.9399344: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving players
+[Info: 2020-09-11 01:55:50.9400424: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving worlds
+[Info: 2020-09-11 01:55:50.9400864: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:55:50.9710188: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (Skyblock): All chunks are saved
+[Info: 2020-09-11 01:55:50.9710942: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:55:51.1987716: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-09-11 01:55:51.1988356: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:55:51.1990531: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-09-11 01:55:51.2065605: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (Skyblock): All chunks are saved
+[Info: 2020-09-11 01:55:51.2158341: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-09-11 01:55:51.2181062: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-09-11 01:55:51.2256676: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, Owen's Resource Pack, Redstone Lines, food-preview-ressources-pack.zip
+[Info: 2020-09-11 01:55:51.8641998: GameCallbacks.cpp(163)] Game/elk (Worker-Main-97) Warn Exception loading blockstate definition: 'minecraft:blockstates/kelp.json' in resourcepack: 'Owen's Resource Pack' for variant: 'normal': Unknown blockstate property: 'normal'
+[Info: 2020-09-11 01:55:52.4303525: GameCallbacks.cpp(163)] Game/elk (Worker-Main-97) Warn Unable to resolve texture reference: #missing in minecraft:block/lever_on
+[Info: 2020-09-11 01:55:52.4304121: GameCallbacks.cpp(163)] Game/elk (Worker-Main-97) Warn Unable to resolve texture reference: #missing in minecraft:block/lever
+[Info: 2020-09-11 01:55:52.4304406: GameCallbacks.cpp(163)] Game/elk (Worker-Main-97) Warn Unable to resolve texture reference: #missing in minecraft:item/lever
+[Info: 2020-09-11 01:55:52.4783102: GameCallbacks.cpp(163)] Game/ejt (Worker-Main-62) Error Using missing texture, unable to load minecraft:textures/block/stone_slab_top.png : java.io.FileNotFoundException: minecraft:textures/block/stone_slab_top.png
+[Info: 2020-09-11 01:55:52.8514904: GameCallbacks.cpp(163)] Game/dds (Render thread) Info OpenAL initialized.
+[Info: 2020-09-11 01:55:52.8515575: GameCallbacks.cpp(163)] Game/enj (Render thread) Info Sound engine started
+[Info: 2020-09-11 01:55:53.0938002: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[Info: 2020-09-11 01:55:53.1003427: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[Info: 2020-09-11 01:55:53.1006174: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[Info: 2020-09-11 01:55:53.1019467: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[Info: 2020-09-11 01:55:53.1032623: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[Info: 2020-09-11 01:55:53.1036130: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[Info: 2020-09-11 01:55:53.1041943: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[Info: 2020-09-11 01:55:53.2768982: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[Info: 2020-09-11 01:55:53.2773268: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 4096x4096x0 minecraft:textures/atlas/paintings.png-atlas
+[Info: 2020-09-11 01:55:53.2872250: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[Info: 2020-09-11 01:55:55.8003920: GameCallbacks.cpp(163)] Game/dse (Render thread) Error Invalid icon for world Owen's World
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829)
+	at dse$a.g(SourceFile:422)
+	at dse$a.<init>(SourceFile:189)
+	at dse.a(SourceFile:108)
+	at dse.<init>(SourceFile:83)
+	at dsb.b(SourceFile:48)
+	at doq.b(SourceFile:325)
+	at djw.a(SourceFile:897)
+	at dov.d(SourceFile:141)
+	at dov$$Lambda$2722/1099218157.onPress(Unknown Source)
+	at dlg.b(SourceFile:33)
+	at dla.a(SourceFile:16)
+	at dle.a(SourceFile:149)
+	at dme.a(SourceFile:27)
+	at dov.a(SourceFile:296)
+	at djx.b(SourceFile:92)
+	at djx$$Lambda$3039/862562079.run(Unknown Source)
+	at doq.a(SourceFile:435)
+	at djx.a(SourceFile:92)
+	at djx.c(SourceFile:162)
+	at djx$$Lambda$3038/1017226907.run(Unknown Source)
+	at any.execute(SourceFile:94)
+	at djx.b(SourceFile:162)
+	at djx$$Lambda$2386/1310708555.invoke(Unknown Source)
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36)
+	at org.lwjgl.system.JNI.invokeV(Native Method)
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174)
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(SourceFile:127)
+	at djw.e(SourceFile:1046)
+	at djw.e(SourceFile:656)
+	at net.minecraft.client.main.Main.main(SourceFile:215)
+
+[Info: 2020-09-11 01:55:56.7981605: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:55:56.7984896: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:55:56.7987547: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:55:56.7990301: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:55:56.7992773: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:55:56.7993527: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default
+[Info: 2020-09-11 01:55:57.0104675: GameCallbacks.cpp(163)] Game/boo (Render thread) Info Loaded 7 recipes
+[Info: 2020-09-11 01:55:57.0391905: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 927 advancements
+[Info: 2020-09-11 01:55:57.3725894: GameCallbacks.cpp(163)] Game/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService (Render thread) Info Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[Info: 2020-09-11 01:55:57.3746245: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Starting integrated minecraft server version 1.16.3
+[Info: 2020-09-11 01:55:57.3747778: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Generating keypair
+[Info: 2020-09-11 01:55:57.4074435: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Preparing start region for dimension minecraft:overworld
+[Info: 2020-09-11 01:55:57.6942607: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 0%
+[Info: 2020-09-11 01:55:59.3087506: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 83%
+[Info: 2020-09-11 01:55:59.3088603: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 83%
+[Info: 2020-09-11 01:55:59.3089254: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 83%
+[Info: 2020-09-11 01:55:59.4323322: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 95%
+[Info: 2020-09-11 01:55:59.8495225: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Time elapsed: 2424 ms
+[Info: 2020-09-11 01:55:59.8664295: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Changing view distance to 11, from 10
+[Info: 2020-09-11 01:56:00.0137472: GameCallbacks.cpp(163)] Game/acs (Server thread) Info odoggy21[local:E:f23e0678] logged in with entity id 7303 at (-300.41676444687755, 133.5, 205.512414578059)
+[Info: 2020-09-11 01:56:00.0195083: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 joined the game
+[Info: 2020-09-11 01:56:00.1487302: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:56:00.1552215: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 107 advancements
+[Info: 2020-09-11 01:56:00.1904135: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:overworld
+[Info: 2020-09-11 01:56:00.4200604: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:the_nether
+[Info: 2020-09-11 01:56:00.4477129: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:the_end
+[Info: 2020-09-11 01:56:07.8891099: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:56:07.9554519: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:overworld
+[Info: 2020-09-11 01:56:08.0146725: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:the_nether
+[Info: 2020-09-11 01:56:08.3266186: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:the_end
+[Info: 2020-09-11 01:56:08.3450151: GameCallbacks.cpp(163)] Game/aay (Server thread) Info odoggy21 lost connection: Disconnected
+[Info: 2020-09-11 01:56:08.3450937: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 left the game
+[Info: 2020-09-11 01:56:08.3516778: GameCallbacks.cpp(163)] Game/aay (Server thread) Info Stopping singleplayer server as player logged out
+[Info: 2020-09-11 01:56:08.3603785: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Stopping server
+[Info: 2020-09-11 01:56:08.3605977: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving players
+[Info: 2020-09-11 01:56:08.3607008: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving worlds
+[Info: 2020-09-11 01:56:08.3607431: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:overworld
+[Info: 2020-09-11 01:56:08.5486445: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (Magma Cream Only Farm WDL): All chunks are saved
+[Info: 2020-09-11 01:56:08.5488784: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:the_nether
+[Info: 2020-09-11 01:56:09.0454596: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-09-11 01:56:09.0455176: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[15]'/minecraft:the_end
+[Info: 2020-09-11 01:56:09.0456942: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-09-11 01:56:09.0527220: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (Magma Cream Only Farm WDL): All chunks are saved
+[Info: 2020-09-11 01:56:09.0588570: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-09-11 01:56:09.0610072: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-09-11 01:56:10.5265995: GameCallbacks.cpp(163)] Game/dse (Render thread) Error Invalid icon for world Owen's World
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829)
+	at dse$a.g(SourceFile:422)
+	at dse$a.<init>(SourceFile:189)
+	at dse.a(SourceFile:108)
+	at dse.<init>(SourceFile:83)
+	at dsb.b(SourceFile:48)
+	at doq.b(SourceFile:325)
+	at djw.a(SourceFile:897)
+	at dov.d(SourceFile:141)
+	at dov$$Lambda$2722/1099218157.onPress(Unknown Source)
+	at dlg.b(SourceFile:33)
+	at dla.a(SourceFile:16)
+	at dle.a(SourceFile:149)
+	at dme.a(SourceFile:27)
+	at dov.a(SourceFile:296)
+	at djx.b(SourceFile:92)
+	at djx$$Lambda$3039/862562079.run(Unknown Source)
+	at doq.a(SourceFile:435)
+	at djx.a(SourceFile:92)
+	at djx.c(SourceFile:162)
+	at djx$$Lambda$3038/1017226907.run(Unknown Source)
+	at any.execute(SourceFile:94)
+	at djx.b(SourceFile:162)
+	at djx$$Lambda$2386/1310708555.invoke(Unknown Source)
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36)
+	at org.lwjgl.system.JNI.invokeV(Native Method)
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174)
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(SourceFile:127)
+	at djw.e(SourceFile:1046)
+	at djw.e(SourceFile:656)
+	at net.minecraft.client.main.Main.main(SourceFile:215)
+
+[Info: 2020-09-11 01:56:12.8400182: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:56:12.8402968: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:56:12.8405629: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:56:12.8408883: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:56:12.8413178: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:56:12.8415924: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, skyblockDatapack, Recycle Crafting, Uncraftable Ice.zip, anti creeper grief v1.0.2.zip, anti ghast grief v1.0.0.zip, crafting.zip, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, silence mobs v1.0.0.zip, food-preview-datapack.zip, Infinite Trades (1.14)
+[Info: 2020-09-11 01:56:13.4062358: GameCallbacks.cpp(163)] Game/boo (Render thread) Info Loaded 7 recipes
+[Info: 2020-09-11 01:56:13.4063052: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Datapack tried to redefine minecraft:empty loot table, ignoring
+[Info: 2020-09-11 01:56:13.4231442: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[Info: 2020-09-11 01:56:13.4232166: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[Info: 2020-09-11 01:56:13.4312973: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 1087 advancements
+[Info: 2020-09-11 01:56:24.9347206: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:56:24.9351160: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:56:24.9354715: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:56:24.9358442: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 01:56:24.9362119: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 01:56:24.9363650: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, skyblockDatapack, Recycle Crafting, Uncraftable Ice.zip, anti creeper grief v1.0.2.zip, anti ghast grief v1.0.0.zip, crafting.zip, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, silence mobs v1.0.0.zip, food-preview-datapack.zip, Infinite Trades (1.14)
+[Info: 2020-09-11 01:56:25.4865553: GameCallbacks.cpp(163)] Game/boo (Render thread) Info Loaded 7 recipes
+[Info: 2020-09-11 01:56:25.4866370: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Datapack tried to redefine minecraft:empty loot table, ignoring
+[Info: 2020-09-11 01:56:25.5053508: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[Info: 2020-09-11 01:56:25.5054130: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[Info: 2020-09-11 01:56:25.5147722: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 1087 advancements
+[Info: 2020-09-11 01:56:25.8883711: GameCallbacks.cpp(163)] Game/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService (Render thread) Info Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[Info: 2020-09-11 01:56:25.8904467: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Starting integrated minecraft server version 1.16.3
+[Info: 2020-09-11 01:56:25.8905349: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Generating keypair
+[Info: 2020-09-11 01:56:25.9736710: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Preparing start region for dimension minecraft:overworld
+[Info: 2020-09-11 01:56:26.1098169: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 0%
+[Info: 2020-09-11 01:56:26.1729686: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Time elapsed: 183 ms
+[Info: 2020-09-11 01:56:26.1914706: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Changing view distance to 11, from 10
+[Info: 2020-09-11 01:56:26.3151989: GameCallbacks.cpp(163)] Game/acs (Server thread) Info odoggy21[local:E:42f51c6d] logged in with entity id 7733 at (-602.22802568918, 40.0, -271.48352494499017)
+[Info: 2020-09-11 01:56:26.3164562: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 joined the game
+[Info: 2020-09-11 01:56:26.3272608: GameCallbacks.cpp(163)] Game/ejz (Netty Local Client IO #5) Info Applying server pack C:\Users\owenm\AppData\Roaming\.minecraft\saves\Skyblock\resources.zip
+[Info: 2020-09-11 01:56:26.5207016: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, Owen's Resource Pack, Redstone Lines, food-preview-ressources-pack.zip, resources.zip
+[Info: 2020-09-11 01:56:26.5231031: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 01:56:26.5488418: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 01:56:26.5963706: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 01:56:26.5973546: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 01:56:27.5006963: GameCallbacks.cpp(163)] Game/elk (Worker-Main-81) Warn Exception loading blockstate definition: 'minecraft:blockstates/kelp.json' in resourcepack: 'Owen's Resource Pack' for variant: 'normal': Unknown blockstate property: 'normal'
+[Info: 2020-09-11 01:56:28.4123853: GameCallbacks.cpp(163)] Game/elk (Worker-Main-81) Warn Unable to resolve texture reference: #missing in minecraft:block/lever_on
+[Info: 2020-09-11 01:56:28.4124978: GameCallbacks.cpp(163)] Game/elk (Worker-Main-81) Warn Unable to resolve texture reference: #missing in minecraft:block/lever
+[Info: 2020-09-11 01:56:28.4125488: GameCallbacks.cpp(163)] Game/elk (Worker-Main-81) Warn Unable to resolve texture reference: #missing in minecraft:item/lever
+[Info: 2020-09-11 01:56:28.4886342: GameCallbacks.cpp(163)] Game/ejt (Worker-Main-98) Error Using missing texture, unable to load minecraft:textures/block/stone_slab_top.png : java.io.FileNotFoundException: minecraft:textures/block/stone_slab_top.png
+[Info: 2020-09-11 01:56:28.9398586: GameCallbacks.cpp(163)] Game/dds (Render thread) Info OpenAL initialized.
+[Info: 2020-09-11 01:56:28.9400023: GameCallbacks.cpp(163)] Game/enj (Render thread) Info Sound engine started
+[Info: 2020-09-11 01:56:29.2164923: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[Info: 2020-09-11 01:56:29.2226877: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[Info: 2020-09-11 01:56:29.2228930: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[Info: 2020-09-11 01:56:29.2240997: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[Info: 2020-09-11 01:56:29.2253555: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[Info: 2020-09-11 01:56:29.2256695: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[Info: 2020-09-11 01:56:29.2262188: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[Info: 2020-09-11 01:56:29.3953974: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[Info: 2020-09-11 01:56:29.3964830: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 4096x4096x0 minecraft:textures/atlas/paintings.png-atlas
+[Info: 2020-09-11 01:56:29.4062754: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[Info: 2020-09-11 01:56:31.8868025: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 337 advancements
+[Info: 2020-09-11 02:05:00.1394979: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 was fireballed by Ghast
+[Info: 2020-09-11 02:05:00.1428532: GameCallbacks.cpp(163)] Game/dlh (Render thread) Info [CHAT] odoggy21 was fireballed by Ghast
+[Info: 2020-09-11 02:05:49.3200538: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 02:05:49.3312644: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 02:05:49.3382592: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 02:05:49.3638187: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 02:06:09.7188977: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 02:06:09.7306291: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 02:06:09.7366649: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 02:06:09.7384350: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 02:06:14.2466886: GameCallbacks.cpp(163)] Game/dlh (Render thread) Info [CHAT] Respawn point set
+[Info: 2020-09-11 02:06:21.0694933: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 02:06:21.0841850: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 02:06:21.0999966: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 02:06:21.1006652: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 02:08:59.3690789: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 02:08:59.3804219: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 02:08:59.3969681: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 02:08:59.3970527: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 02:08:59.9948750: GameCallbacks.cpp(163)] Game/aay (Server thread) Info odoggy21 lost connection: Disconnected
+[Info: 2020-09-11 02:08:59.9949541: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 left the game
+[Info: 2020-09-11 02:09:00.0077028: GameCallbacks.cpp(163)] Game/aay (Server thread) Info Stopping singleplayer server as player logged out
+[Info: 2020-09-11 02:09:00.0246234: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Stopping server
+[Info: 2020-09-11 02:09:00.0248226: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving players
+[Info: 2020-09-11 02:09:00.0248603: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving worlds
+[Info: 2020-09-11 02:09:00.0248905: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:overworld
+[Info: 2020-09-11 02:09:00.1048947: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (Skyblock): All chunks are saved
+[Info: 2020-09-11 02:09:00.1050109: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_nether
+[Info: 2020-09-11 02:09:00.1118377: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-09-11 02:09:00.1119062: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Skyblock Evolution]'/minecraft:the_end
+[Info: 2020-09-11 02:09:00.1120920: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-09-11 02:09:00.1215049: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (Skyblock): All chunks are saved
+[Info: 2020-09-11 02:09:00.1312582: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-09-11 02:09:00.1409043: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-09-11 02:09:00.1565309: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, Owen's Resource Pack, Redstone Lines, food-preview-ressources-pack.zip
+[Info: 2020-09-11 02:09:01.3836417: GameCallbacks.cpp(163)] Game/elk (Worker-Main-117) Warn Exception loading blockstate definition: 'minecraft:blockstates/kelp.json' in resourcepack: 'Owen's Resource Pack' for variant: 'normal': Unknown blockstate property: 'normal'
+[Info: 2020-09-11 02:09:02.1916594: GameCallbacks.cpp(163)] Game/elk (Worker-Main-117) Warn Unable to resolve texture reference: #missing in minecraft:block/lever_on
+[Info: 2020-09-11 02:09:02.1917348: GameCallbacks.cpp(163)] Game/elk (Worker-Main-117) Warn Unable to resolve texture reference: #missing in minecraft:block/lever
+[Info: 2020-09-11 02:09:02.1917714: GameCallbacks.cpp(163)] Game/elk (Worker-Main-117) Warn Unable to resolve texture reference: #missing in minecraft:item/lever
+[Info: 2020-09-11 02:09:02.2398661: GameCallbacks.cpp(163)] Game/ejt (Worker-Main-116) Error Using missing texture, unable to load minecraft:textures/block/stone_slab_top.png : java.io.FileNotFoundException: minecraft:textures/block/stone_slab_top.png
+[Info: 2020-09-11 02:09:02.6297410: GameCallbacks.cpp(163)] Game/dds (Render thread) Info OpenAL initialized.
+[Info: 2020-09-11 02:09:02.6298105: GameCallbacks.cpp(163)] Game/enj (Render thread) Info Sound engine started
+[Info: 2020-09-11 02:09:02.8650659: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[Info: 2020-09-11 02:09:02.8720341: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[Info: 2020-09-11 02:09:02.8724055: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[Info: 2020-09-11 02:09:02.8737475: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[Info: 2020-09-11 02:09:02.8749446: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[Info: 2020-09-11 02:09:02.8752583: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[Info: 2020-09-11 02:09:02.8757862: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[Info: 2020-09-11 02:09:03.0704820: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[Info: 2020-09-11 02:09:03.0708984: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 4096x4096x0 minecraft:textures/atlas/paintings.png-atlas
+[Info: 2020-09-11 02:09:03.0792674: GameCallbacks.cpp(163)] Game/ejt (Render thread) Info Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[Info: 2020-09-11 02:09:28.8533970: GameCallbacks.cpp(163)] Game/dse (Render thread) Error Invalid icon for world Owen's World
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829)
+	at dse$a.g(SourceFile:422)
+	at dse$a.<init>(SourceFile:189)
+	at dse.a(SourceFile:108)
+	at dse.<init>(SourceFile:83)
+	at dsb.b(SourceFile:48)
+	at doq.b(SourceFile:325)
+	at djw.a(SourceFile:897)
+	at dov.d(SourceFile:141)
+	at dov$$Lambda$2722/1099218157.onPress(Unknown Source)
+	at dlg.b(SourceFile:33)
+	at dla.a(SourceFile:16)
+	at dle.a(SourceFile:149)
+	at dme.a(SourceFile:27)
+	at dov.a(SourceFile:296)
+	at djx.b(SourceFile:92)
+	at djx$$Lambda$3039/862562079.run(Unknown Source)
+	at doq.a(SourceFile:435)
+	at djx.a(SourceFile:92)
+	at djx.c(SourceFile:162)
+	at djx$$Lambda$3038/1017226907.run(Unknown Source)
+	at any.execute(SourceFile:94)
+	at djx.b(SourceFile:162)
+	at djx$$Lambda$2386/1310708555.invoke(Unknown Source)
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36)
+	at org.lwjgl.system.JNI.invokeV(Native Method)
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174)
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(SourceFile:127)
+	at djw.e(SourceFile:1046)
+	at djw.e(SourceFile:656)
+	at net.minecraft.client.main.Main.main(SourceFile:215)
+
+[Info: 2020-09-11 02:09:33.8097123: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 02:09:33.8099719: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 02:09:33.8102007: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 02:09:33.8104341: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-09-11 02:09:33.8106769: GameCallbacks.cpp(163)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-09-11 02:09:33.8107921: GameCallbacks.cpp(163)] Game/ack (Render thread) Info Reloading ResourceManager: Default, anti ghast grief v1.0.0.zip, crafting.zip, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, silence mobs v1.0.0.zip, smartsaplings.zip, villager workstation highlights v1.0.0.zip, witherskeletonskull.zip, Uncraftable Ice.zip, more mob heads v2.6.2.zip, anti creeper grief v1.0.2.zip, spawning spheres v1.0.0.zip, Recycle Crafting, Infinite Trades (1.14), food-preview-datapack.zip
+[Info: 2020-09-11 02:09:34.2365415: GameCallbacks.cpp(163)] Game/boo (Render thread) Info Loaded 7 recipes
+[Info: 2020-09-11 02:09:34.2366031: GameCallbacks.cpp(163)] Game/cyw (Render thread) Warn Datapack tried to redefine minecraft:empty loot table, ignoring
+[Info: 2020-09-11 02:09:34.2678561: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 964 advancements
+[Info: 2020-09-11 02:09:34.2926666: GameCallbacks.cpp(163)] Game/ani (Render thread) Warn Unable to resolve BlockEntity for ItemStack: minecraft:bee_nest
+[Info: 2020-09-11 02:09:34.5951966: GameCallbacks.cpp(163)] Game/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService (Render thread) Info Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[Info: 2020-09-11 02:09:34.5975597: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Starting integrated minecraft server version 1.16.3
+[Info: 2020-09-11 02:09:34.5976622: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Generating keypair
+[Info: 2020-09-11 02:09:34.6487938: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Preparing start region for dimension minecraft:overworld
+[Info: 2020-09-11 02:09:35.1763869: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 0%
+[Info: 2020-09-11 02:09:35.1764532: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Preparing spawn area: 0%
+[Info: 2020-09-11 02:09:35.3134060: GameCallbacks.cpp(163)] Game/aar (Render thread) Info Time elapsed: 654 ms
+[Info: 2020-09-11 02:09:35.3613846: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Error Couldn't load server icon
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:771)
+	at net.minecraft.server.MinecraftServer.w(SourceFile:648)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:254)
+	at net.minecraft.server.MinecraftServer$$Lambda$4188/579058644.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:745)
+
+[Info: 2020-09-11 02:09:35.3713578: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Changing view distance to 11, from 10
+[Info: 2020-09-11 02:09:35.5367259: GameCallbacks.cpp(163)] Game/acs (Server thread) Info odoggy21[local:E:2f5a4a2c] logged in with entity id 11233 at (340.08875691094033, 64.02045247850603, 42.23750001192093)
+[Info: 2020-09-11 02:09:35.5398629: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 joined the game
+[Info: 2020-09-11 02:09:35.6492430: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 02:09:35.6621270: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:overworld
+[Info: 2020-09-11 02:09:35.8425422: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_nether
+[Info: 2020-09-11 02:09:35.8430143: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_end
+[Info: 2020-09-11 02:09:35.9202357: GameCallbacks.cpp(163)] Game/z (Render thread) Info Loaded 724 advancements
+[Info: 2020-09-11 02:09:37.6758522: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 02:09:37.6763467: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 02:09:37.6769622: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 02:09:40.7098281: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 02:10:06.6112523: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 02:10:06.6113380: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 02:10:06.6113754: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 02:10:06.6114076: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 02:10:06.6114433: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 02:10:06.6114719: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 02:10:06.6114987: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 02:10:09.8159477: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 02:10:10.1176827: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 02:10:10.7144313: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 02:10:13.8711758: GameCallbacks.cpp(163)] Game/dwm (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-09-11 02:10:18.1997001: GameCallbacks.cpp(163)] Game/emy (Server thread) Info Saving and pausing game...
+[Info: 2020-09-11 02:10:18.2174146: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:overworld
+[Info: 2020-09-11 02:10:18.7433224: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_nether
+[Info: 2020-09-11 02:10:18.7438222: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_end
+[Info: 2020-09-11 02:10:19.2452478: GameCallbacks.cpp(163)] Game/aay (Server thread) Info odoggy21 lost connection: Disconnected
+[Info: 2020-09-11 02:10:19.2453808: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info odoggy21 left the game
+[Info: 2020-09-11 02:10:19.2568951: GameCallbacks.cpp(163)] Game/aay (Server thread) Info Stopping singleplayer server as player logged out
+[Info: 2020-09-11 02:10:19.2675216: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Stopping server
+[Info: 2020-09-11 02:10:19.2677691: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving players
+[Info: 2020-09-11 02:10:19.2678262: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving worlds
+[Info: 2020-09-11 02:10:19.2678853: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:overworld
+[Info: 2020-09-11 02:10:19.7508987: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (Owen's World): All chunks are saved
+[Info: 2020-09-11 02:10:19.7509611: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_nether
+[Info: 2020-09-11 02:10:19.7512423: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-09-11 02:10:19.7513008: GameCallbacks.cpp(163)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[Owen's World]'/minecraft:the_end
+[Info: 2020-09-11 02:10:19.7513903: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-09-11 02:10:19.7582646: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (Owen's World): All chunks are saved
+[Info: 2020-09-11 02:10:19.7703151: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-09-11 02:10:19.7704463: GameCallbacks.cpp(163)] Game/zs (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-09-11 02:10:27.4009754: GameCallbacks.cpp(163)] Game/djw (Render thread) Info Stopping!
+[Info: 2020-09-11 02:10:28.3178388: GameCallbacks.cpp(163)] Launcher/launcher (main) Info 
+
+[Info: 2020-09-11 02:10:28.3179045: GameCallbacks.cpp(163)] Launcher/monitor (Process Monitor) Info Process ended with exit code 0
+[Info: 2020-09-11 02:10:28.3297012: GameController.cpp(471)] Game closed with id 1
+[Info: 2020-09-11 02:10:28.3379130: Process_Windows.cpp(283)] Finish any outstanding read/writes to the stdout stream
+[Info: 2020-09-11 02:10:28.3379860: main_context.cpp(208)] Shutting down!
+[Info: 2020-09-11 02:10:28.3391376: NetQueue.cpp(239)] NetQueue: Initiating shutdown.
+[Info: 2020-09-11 02:10:28.3391631: NetQueue.cpp(245)] NetQueue: Waiting for worker thread to finish...
+[Info: 2020-09-11 02:10:28.3411815: NetQueue.cpp(658)] NetQueue: Worker thread shutting down.
+[Info: 2020-09-11 02:10:28.3413973: NetQueue.cpp(248)] NetQueue: Done.
+[Info: 2020-09-11 02:10:28.3603212: StartLibrary.cpp(99)] Launcher ended with 0
+[Info: 2020-09-11 02:10:28.3604592: NetQueue.cpp(239)] NetQueue: Initiating shutdown.
+[Info: 2020-09-11 02:10:28.3604783: NetQueue.cpp(245)] NetQueue: Waiting for worker thread to finish...
+[Info: 2020-09-11 02:10:28.3614617: NetQueue.cpp(658)] NetQueue: Worker thread shutting down.
+[Info: 2020-09-11 02:10:28.3617049: NetQueue.cpp(248)] NetQueue: Done.

@@ -1,0 +1,26 @@
+﻿
+ ██   ██  ███  █ █ ███  ███  ███ █  █ █████
+█  █ █  █ █  █ █ █ █  █  █  █    █  █   █
+█    █  █ ███   █  ███   █  █ ██ ████   █ 
+█  █ █  █ █     █  █  █  █  █  █ █  █   █
+ ██   ██  █     █  █  █ ███  ██  █  █   █
+
+The terms 'this work' or 'work' in this document refer to all the files included in the folder or zip archive that contains this document.
+
+(1) You are NOT allowed to:
+- copy, distribute and transmit this work
+- change, edit and adapt this work for commerical use
+
+(2) You are allowed to:
+- privately use this work in your Minecraft game client
+- showcase your own recorded footage of this work, commercially and privately, in videos, blogs, articles and similar mediums if you credit IJAMinecraft (see Point 3)
+- use this work in your Minecraft maps, worlds, or on your server if you credit IJAMinecraft (see Point 4)
+- adapt this work if you don't share the edited version publically (see Point 5)
+
+(3) If you want to showcase footage of this work in YouTube videos, blogs and similar, you must add a clearly visible disclaimer stating IJAMinecraft as the author with a clearly visible link to this work on IJAMinecraft's website into your work (e.g. video description, article footer, ...). The disclaimer may look similar to the following example: 'Data pack by IJAMinecraft ijaminecraft.com/...'
+
+(4) If you want to use this work in a Minecraft map, world or server that you want to share publically, you need to add a clearly visible disclaimer which must state that you are using IJAMinecraft's work. The disclaimer must also provide a link to either IJAMinecraft's YouTube channel or the work on IJAMinecraft's website. The disclaimer should look similar to the following example: 'This {map|world|server} uses a data pack by IJAMinecraft. You can find it on ijaminecraft.com/...'
+
+(5) It's not allowed to edit this work and then share it. But if you want to edit these files to use them in your own work that you then want to share publically, you are allowed to do so if you credit IJAMinecraft. For how you can properly credit IJAMinecraft, look at point 4.
+
+========================================================
