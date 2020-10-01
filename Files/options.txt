@@ -22,8 +22,8 @@ mouseSensitivity:0.39964789152145386
 fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
-gamma:1.0
-renderDistance:12
+gamma:16.0
+renderDistance:31
 entityDistanceScaling:1.0
 guiScale:0
 particles:0
@@ -33,8 +33,8 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","file/Owen\u0027s Resource Pack","file/Redstone Lines","file/food-preview-ressources-pack.zip"]
-incompatibleResourcePacks:["file/food-preview-ressources-pack.zip"]
+resourcePacks:["vanilla","file/Redstone Lines","file/Owen\u0027s Resource Pack","file/Saturation"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -85,7 +85,7 @@ key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
-key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.saveToolbarActivator:key.keyboard.c
 key_key.loadToolbarActivator:key.keyboard.x
 key_key.advancements:key.keyboard.l
 key_key.hotbar.1:key.mouse.4
@@ -97,7 +97,8 @@ key_key.hotbar.6:key.keyboard.4
 key_key.hotbar.7:key.keyboard.3
 key_key.hotbar.8:key.keyboard.2
 key_key.hotbar.9:key.keyboard.1
-soundCategory_master:0.5033113
+key_of.key.zoom:key.keyboard.z
+soundCategory_master:0.28062913
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
