@@ -1,3 +1,0 @@
-execute as @e[type=minecraft:armor_stand,name=composter_placer] at @s if block ~ ~ ~ minecraft:composter[level=0] unless entity @e[type=minecraft:armor_stand,name=composter,distance=..1] run tag @s add found
-execute as @e[type=minecraft:armor_stand,name=composter_placer] at @s run tp @s ^ ^ ^.2
-execute unless entity @e[type=minecraft:armor_stand,name=composter_placer,tag=found] run function skyblock:composter_dirt/search_composter
