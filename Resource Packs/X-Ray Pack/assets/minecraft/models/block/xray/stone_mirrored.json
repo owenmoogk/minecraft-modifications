@@ -1,6 +1,0 @@
-{
-    "parent": "block/xray_mirrored_all",
-    "textures": {
-        "all": "block/stone"
-    }
-}

@@ -1,7 +1,0 @@
-{
-"__comment": "Copyright 2015 Filmjolk David Grindholmen",
-    "parent": "block/solid_all",
-    "textures": {
-        "all": "block/redstone_block"
-    }
-}

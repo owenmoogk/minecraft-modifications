@@ -1,7 +1,0 @@
-{
-    "variants": {
-        "axis=y": { "model": "block/xray/bone_block" },
-        "axis=z": { "model": "block/xray/bone_block", "x": 90 },
-        "axis=x": { "model": "block/xray/bone_block", "x": 90, "y": 90 }
-    }
-}

@@ -1,8 +1,0 @@
-{   "parent": "block/xray_bottom_top",
-    "textures": {
-        "particle": "block/dirt",
-        "top": "block/grass_path_top",
-        "side": "block/grass_path_side",
-        "bottom": "block/dirt"
-    }
-}

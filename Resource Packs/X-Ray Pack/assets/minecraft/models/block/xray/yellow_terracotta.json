@@ -1,6 +1,0 @@
-{
-    "parent": "block/xray_all",
-    "textures": {
-        "all": "block/yellow_terracotta"
-    }
-}

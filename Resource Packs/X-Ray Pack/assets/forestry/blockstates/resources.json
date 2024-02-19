@@ -1,7 +1,0 @@
-{
-    "variants": {
-        "resource=apatite": { "model": "block/forestry/apatite" },
-		"resource=copper": { "model": "block/forestry/copper" },
-		"resource=tin": { "model": "block/forestry/tin" }
-	}
-}
