@@ -1,13 +1,11 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Created by Stridey",
 	"textures": {
-		"platform": "block/piston_top_sticky_ex",
-		"side": "block/piston_side",
-		"particle": "block/piston_top_sticky_ex",
-		"unsticky": "block/piston_top",
-		"sticky_side": "block/sticky_piston_side",
-		"addon": "block/head_addon",
-		"inner": "block/piston_inner"
+		"3": "block/piston_side_sticky",
+		"4": "block/piston_bottom_sticky",
+		"particle": "block/piston_top_sticky",
+		"platform": "block/piston_top_sticky",
+		"side": "block/piston_side"
 	},
 	"elements": [
 		{
@@ -15,11 +13,11 @@
 			"to": [16, 16, 4],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#platform", "cullface": "north"},
-				"east": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#sticky_side", "cullface": "east"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#unsticky"},
-				"west": {"uv": [0, 0, 16, 4], "rotation": 270, "texture": "#sticky_side", "cullface": "west"},
-				"up": {"uv": [0, 0, 16, 4], "texture": "#sticky_side", "cullface": "up"},
-				"down": {"uv": [0, 0, 16, 4], "rotation": 180, "texture": "#sticky_side", "cullface": "down"}
+				"east": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#3", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"west": {"uv": [0, 0, 16, 4], "rotation": 270, "texture": "#3", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 4], "texture": "#3", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 4], "rotation": 180, "texture": "#3", "cullface": "down"}
 			}
 		},
 		{
@@ -30,17 +28,6 @@
 				"west": {"uv": [16, 4, 0, 0], "texture": "#side"},
 				"up": {"uv": [0, 0, 16, 4], "rotation": 270, "texture": "#side"},
 				"down": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#side"}
-			}
-		},
-		{
-			"from": [5, 5, 12],
-			"to": [11, 11, 20],
-			"faces": {
-				"north": {"uv": [5, 5, 11, 11], "texture": "#inner"},
-				"east": {"uv": [5, 4, 11, 12], "rotation": 90, "texture": "#addon"},
-				"west": {"uv": [5, 4, 11, 12], "rotation": 270, "texture": "#addon"},
-				"up": {"uv": [5, 4, 11, 12], "texture": "#addon"},
-				"down": {"uv": [5, 4, 11, 12], "rotation": 180, "texture": "#addon"}
 			}
 		}
 	]

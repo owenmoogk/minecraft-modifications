@@ -1,18 +1,20 @@
 Vanilla Tweaks Resource Pack
 Version: 1.20
 Packs:
-	ItemStitchingFix
-	DripleafFixBig
-	DripleafFixSmall
-	CloudFogFix
-	ConsistentBucketFix
-	ConsistentTadpoleBucket
-	OldDamageSounds
-	DarkUI
-	RainbowExperience
-	PingColorIndicator
-	WitherHearts
-	DiminishingTools
+	BrownLeather
+	EndlessEndRods
+	AccurateSpyglass
+	FencierFences
+	ClassicNetheriteArmor
+	HorizontalWorldBorder
+	ConsistentBambooPlanks
+	ClearerWater
+	QuieterRain
+	QuieterThunder
+	QuieterMinecarts
+	QuieterPistons
+	QuieterWater
+	QuieterNetherPortals
 	OreBorders
 	SuspiciousSandGravelBorders
 	BuddingAmethystBorders
@@ -25,17 +27,14 @@ Packs:
 	GroovyLevers
 	VisualCauldronStages
 	VisualComposterStages
-	QuieterRain
-	QuieterThunder
-	QuieterMinecarts
-	QuieterPistons
-	QuieterWater
-	QuieterNetherPortals
-	ClearerWater
-	BrownLeather
-	EndlessEndRods
-	AccurateSpyglass
-	FencierFences
-	ClassicNetheriteArmor
-	HorizontalWorldBorder
-	ConsistentBambooPlanks
+	RainbowExperience
+	PingColorIndicator
+	WitherHearts
+	DarkUI
+	OldDamageSounds
+	ItemStitchingFix
+	DripleafFixBig
+	DripleafFixSmall
+	CloudFogFix
+	ConsistentBucketFix
+	ConsistentTadpoleBucket
