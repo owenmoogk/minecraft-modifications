@@ -1,40 +1,69 @@
 Vanilla Tweaks Resource Pack
 Version: 1.20
 Packs:
-	BrownLeather
-	EndlessEndRods
-	AccurateSpyglass
-	FencierFences
-	ClassicNetheriteArmor
-	HorizontalWorldBorder
+	UnobtrusiveScaffolding
+	UnobtrusiveRain
 	ConsistentBambooPlanks
+	HorizontalWorldBorder
+	ClassicNetheriteArmor
+	FencierFences
+	AccurateSpyglass
+	EndlessEndRods
+	BrownLeather
+	BlackNetherBricks
+	SplashXpBottle
 	ClearerWater
-	QuieterRain
-	QuieterThunder
-	QuieterMinecarts
-	QuieterPistons
-	QuieterWater
+	CircularSunandMoon
 	QuieterNetherPortals
-	OreBorders
-	SuspiciousSandGravelBorders
-	BuddingAmethystBorders
-	VisualInfestedStoneItems
-	DifferentStems
-	Age25Kelp
-	StickyPistonSides
-	DirectionalHoppers
-	CleanRedstoneDust
-	GroovyLevers
-	VisualCauldronStages
+	QuieterWater
+	QuieterPistons
+	QuieterMinecarts
+	QuieterThunder
+	QuieterRain
 	VisualComposterStages
-	RainbowExperience
-	PingColorIndicator
+	VisualCauldronStages
+	GroovyLevers
+	CleanRedstoneDust
+	StickyPistonSides
+	Age25Kelp
+	DifferentStems
+	VisualInfestedStoneItems
+	BuddingAmethystBorders
+	SuspiciousSandGravelBorders
+	OreBorders
 	WitherHearts
+	PingColorIndicator
+	RainbowExperience
 	DarkUI
 	OldDamageSounds
-	ItemStitchingFix
-	DripleafFixBig
-	DripleafFixSmall
-	CloudFogFix
-	ConsistentBucketFix
 	ConsistentTadpoleBucket
+	ConsistentBucketFix
+	CloudFogFix
+	DripleafFixSmall
+	DripleafFixBig
+	ItemStitchingFix
+	HoeFix
+	DoubleSlabFix
+	IronBarsFix
+	SlimeParticleFix
+	BlazeFix
+	SoulSoilSoulCampfire
+	PixelConsistentGuardianBeam
+	PixelConsistentSonicBoom
+	PixelConsistentBeaconBeam
+	PixelConsistentXPOrbs
+	PixelConsistentSigns
+	TripwireHookFix
+	PixelConsistentWither
+	PixelConsistentElderGuardian
+	PixelConsistentGhast
+	CactusBottomFix
+	ConsistentDecorPot
+	ProperBreakParticles
+	DirectionalHoppers
+	NoBowlParticles
+	ItemHoldFix
+
+Combined packs:
+	ItemHoldFix+NoBowlParticles
+	DirectionalHoppers+ProperBreakParticles

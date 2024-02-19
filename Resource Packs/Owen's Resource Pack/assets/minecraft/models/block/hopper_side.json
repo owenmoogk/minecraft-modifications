@@ -4,7 +4,7 @@
 	"textures": {
 		"bottom": "block/hopper_inside",
 		"top": "block/hopper_top",
-		"particle": "block/hopper_outside",
+		"particle": "block/break/hopper",
 		"side": "block/hopper_outside",
 		"inside_arrow": "block/hopper_inside_arrow",
 		"side_arrow": "block/hopper_outside_arrow"
