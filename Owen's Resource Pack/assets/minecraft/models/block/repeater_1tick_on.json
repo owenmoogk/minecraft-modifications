@@ -5,7 +5,7 @@
         "slab": "block/repeater_on_side_1t",
         "top": "block/repeater_on_1t",
         "lit": "block/redstone_torch",
-		"bottom": "block/stone_slab_top"
+		"bottom": "block/smooth_stone"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

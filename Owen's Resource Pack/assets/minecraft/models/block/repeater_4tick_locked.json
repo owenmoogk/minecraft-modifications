@@ -6,7 +6,7 @@
         "top": "block/repeater_off_4t",
         "lock": "block/bedrock",
         "unlit": "block/redstone_torch_off",
-		"bottom": "block/stone_slab_top"
+		"bottom": "block/smooth_stone"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],
