@@ -6,20 +6,13 @@ Packs:
 	ConsistentBambooPlanks
 	HorizontalWorldBorder
 	ClassicNetheriteArmor
-	FencierFences
 	AccurateSpyglass
 	EndlessEndRods
 	BrownLeather
 	BlackNetherBricks
 	SplashXpBottle
 	ClearerWater
-	CircularSunandMoon
 	QuieterNetherPortals
-	QuieterWater
-	QuieterPistons
-	QuieterMinecarts
-	QuieterThunder
-	QuieterRain
 	VisualComposterStages
 	VisualCauldronStages
 	GroovyLevers
@@ -27,18 +20,12 @@ Packs:
 	StickyPistonSides
 	Age25Kelp
 	DifferentStems
-	VisualInfestedStoneItems
 	BuddingAmethystBorders
 	SuspiciousSandGravelBorders
 	OreBorders
-	WitherHearts
-	PingColorIndicator
-	RainbowExperience
-	DarkUI
 	OldDamageSounds
 	ConsistentTadpoleBucket
 	ConsistentBucketFix
-	CloudFogFix
 	DripleafFixSmall
 	DripleafFixBig
 	ItemStitchingFix
@@ -46,24 +33,12 @@ Packs:
 	DoubleSlabFix
 	IronBarsFix
 	SlimeParticleFix
-	BlazeFix
 	SoulSoilSoulCampfire
-	PixelConsistentGuardianBeam
-	PixelConsistentSonicBoom
-	PixelConsistentBeaconBeam
-	PixelConsistentXPOrbs
-	PixelConsistentSigns
 	TripwireHookFix
-	PixelConsistentWither
-	PixelConsistentElderGuardian
-	PixelConsistentGhast
 	CactusBottomFix
-	ConsistentDecorPot
-	ProperBreakParticles
 	DirectionalHoppers
 	NoBowlParticles
 	ItemHoldFix
 
 Combined packs:
 	ItemHoldFix+NoBowlParticles
-	DirectionalHoppers+ProperBreakParticles
