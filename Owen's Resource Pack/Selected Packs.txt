@@ -6,7 +6,6 @@ Packs:
 	ClassicNetheriteArmor
 	EndlessEndRods
 	BrownLeather
-	BlackNetherBricks
 	SplashXpBottle
 	ClearerWater
 	QuieterNetherPortals
@@ -26,7 +25,6 @@ Packs:
 	DripleafFixSmall
 	DripleafFixBig
 	ItemStitchingFix
-	HoeFix
 	DoubleSlabFix
 	IronBarsFix
 	SoulSoilSoulCampfire
